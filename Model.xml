@@ -1,0 +1,1163 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<XMI xmi.version="1.1" xmlns:UML="omg.org/UML1.3" timestamp="2020-11-19 17:00:23">
+	<XMI.header>
+		<XMI.documentation>
+			<XMI.exporter>Enterprise Architect</XMI.exporter>
+			<XMI.exporterVersion>2.5</XMI.exporterVersion>
+		</XMI.documentation>
+	</XMI.header>
+	<XMI.content>
+		<UML:Model name="EA Model" xmi.id="MX_EAID_21AA9CDB_3D9F_49cc_B5FD_3AECA186B719">
+			<UML:Namespace.ownedElement>
+				<UML:Class name="EARootClass" xmi.id="EAID_11111111_5487_4080_A7F4_41526CB0AA00" isRoot="true" isLeaf="false" isAbstract="false"/>
+				<UML:Package name="Model" xmi.id="EAPK_21AA9CDB_3D9F_49cc_B5FD_3AECA186B719" isRoot="false" isLeaf="false" isAbstract="false" visibility="public">
+					<UML:ModelElement.taggedValue>
+						<UML:TaggedValue tag="created" value="2012-04-17 00:00:00"/>
+						<UML:TaggedValue tag="modified" value="2012-04-17 00:00:00"/>
+						<UML:TaggedValue tag="iscontrolled" value="TRUE"/>
+						<UML:TaggedValue tag="xmlpath" value="C:\Users\Olivan\Documents\workspace\testeEnterpriseArchitect\Model.xml"/>
+						<UML:TaggedValue tag="lastloaddate" value="2020-11-18 15:56:16"/>
+						<UML:TaggedValue tag="version" value="1.0"/>
+						<UML:TaggedValue tag="isprotected" value="FALSE"/>
+						<UML:TaggedValue tag="usedtd" value="FALSE"/>
+						<UML:TaggedValue tag="owner" value="Ronyerison"/>
+						<UML:TaggedValue tag="xmiver" value="Enterprise Architect XMI/UML 1.3"/>
+						<UML:TaggedValue tag="logxml" value="FALSE"/>
+						<UML:TaggedValue tag="packageFlags" value="Recurse=1;CRC=0;isModel=1;"/>
+						<UML:TaggedValue tag="batchsave" value="0"/>
+						<UML:TaggedValue tag="batchload" value="0"/>
+						<UML:TaggedValue tag="phase" value="1.0"/>
+						<UML:TaggedValue tag="status" value="Proposed"/>
+						<UML:TaggedValue tag="author" value="Ronyerison"/>
+						<UML:TaggedValue tag="complexity" value="1"/>
+						<UML:TaggedValue tag="ea_stype" value="Public"/>
+						<UML:TaggedValue tag="tpos" value="0"/>
+						<UML:TaggedValue tag="gentype" value="Java"/>
+					</UML:ModelElement.taggedValue>
+					<UML:Namespace.ownedElement>
+						<UML:Collaboration xmi.id="EAID_21AA9CDB_3D9F_49cc_B5FD_3AECA186B719_Collaboration" name="Collaborations">
+							<UML:Namespace.ownedElement>
+								<UML:ClassifierRole name="Webpage Wireframe" xmi.id="EAID_39D5D22D_0F58_4efc_8501_B82725F65402" visibility="public" base="EAID_11111111_5487_4080_A7F4_41526CB0AA00">
+									<UML:ModelElement.taggedValue>
+										<UML:TaggedValue tag="isAbstract" value="false"/>
+										<UML:TaggedValue tag="isSpecification" value="false"/>
+										<UML:TaggedValue tag="ea_stype" value="Package"/>
+										<UML:TaggedValue tag="ea_ntype" value="0"/>
+										<UML:TaggedValue tag="version" value="1.0"/>
+										<UML:TaggedValue tag="isActive" value="false"/>
+										<UML:TaggedValue tag="package" value="EAPK_21AA9CDB_3D9F_49cc_B5FD_3AECA186B719"/>
+										<UML:TaggedValue tag="date_created" value="2020-11-18 15:55:17"/>
+										<UML:TaggedValue tag="date_modified" value="2014-07-18 11:52:54"/>
+										<UML:TaggedValue tag="gentype" value="Java"/>
+										<UML:TaggedValue tag="tagged" value="0"/>
+										<UML:TaggedValue tag="package2" value="EAID_39D5D22D_0F58_4efc_8501_B82725F65402"/>
+										<UML:TaggedValue tag="package_name" value="Model"/>
+										<UML:TaggedValue tag="phase" value="1.0"/>
+										<UML:TaggedValue tag="author" value="Olivan"/>
+										<UML:TaggedValue tag="complexity" value="1"/>
+										<UML:TaggedValue tag="status" value="Proposed"/>
+										<UML:TaggedValue tag="tpos" value="3"/>
+										<UML:TaggedValue tag="ea_localid" value="2"/>
+										<UML:TaggedValue tag="ea_eleType" value="package"/>
+										<UML:TaggedValue tag="style" value="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+									</UML:ModelElement.taggedValue>
+								</UML:ClassifierRole>
+								<UML:ClassifierRole name="Requirements" xmi.id="EAID_94A1381A_7529_4be2_92F7_40995115F868" visibility="public" base="EAID_11111111_5487_4080_A7F4_41526CB0AA00">
+									<UML:ModelElement.taggedValue>
+										<UML:TaggedValue tag="isAbstract" value="false"/>
+										<UML:TaggedValue tag="isSpecification" value="false"/>
+										<UML:TaggedValue tag="ea_stype" value="Package"/>
+										<UML:TaggedValue tag="ea_ntype" value="0"/>
+										<UML:TaggedValue tag="isActive" value="false"/>
+										<UML:TaggedValue tag="package" value="EAPK_21AA9CDB_3D9F_49cc_B5FD_3AECA186B719"/>
+										<UML:TaggedValue tag="date_created" value="2020-11-18 15:56:15"/>
+										<UML:TaggedValue tag="date_modified" value="2020-11-18 15:56:15"/>
+										<UML:TaggedValue tag="tagged" value="0"/>
+										<UML:TaggedValue tag="package2" value="EAID_94A1381A_7529_4be2_92F7_40995115F868"/>
+										<UML:TaggedValue tag="package_name" value="Model"/>
+										<UML:TaggedValue tag="phase" value="1.0"/>
+										<UML:TaggedValue tag="author" value="Olivan"/>
+										<UML:TaggedValue tag="complexity" value="1"/>
+										<UML:TaggedValue tag="status" value="Proposed"/>
+										<UML:TaggedValue tag="tpos" value="1"/>
+										<UML:TaggedValue tag="ea_localid" value="3"/>
+										<UML:TaggedValue tag="ea_eleType" value="package"/>
+										<UML:TaggedValue tag="style" value="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+									</UML:ModelElement.taggedValue>
+								</UML:ClassifierRole>
+								<UML:ClassifierRole name="Use Case View" xmi.id="EAID_D7766412_1ADA_40df_945C_D49931FDB405" visibility="public" base="EAID_11111111_5487_4080_A7F4_41526CB0AA00">
+									<UML:ModelElement.taggedValue>
+										<UML:TaggedValue tag="isAbstract" value="false"/>
+										<UML:TaggedValue tag="isSpecification" value="false"/>
+										<UML:TaggedValue tag="ea_stype" value="Package"/>
+										<UML:TaggedValue tag="ea_ntype" value="0"/>
+										<UML:TaggedValue tag="isActive" value="false"/>
+										<UML:TaggedValue tag="package" value="EAPK_21AA9CDB_3D9F_49cc_B5FD_3AECA186B719"/>
+										<UML:TaggedValue tag="date_created" value="2020-11-18 15:56:16"/>
+										<UML:TaggedValue tag="date_modified" value="2020-11-18 15:56:16"/>
+										<UML:TaggedValue tag="tagged" value="0"/>
+										<UML:TaggedValue tag="package2" value="EAID_D7766412_1ADA_40df_945C_D49931FDB405"/>
+										<UML:TaggedValue tag="package_name" value="Model"/>
+										<UML:TaggedValue tag="phase" value="1.0"/>
+										<UML:TaggedValue tag="author" value="Olivan"/>
+										<UML:TaggedValue tag="complexity" value="1"/>
+										<UML:TaggedValue tag="status" value="Proposed"/>
+										<UML:TaggedValue tag="tpos" value="2"/>
+										<UML:TaggedValue tag="ea_localid" value="4"/>
+										<UML:TaggedValue tag="ea_eleType" value="package"/>
+										<UML:TaggedValue tag="style" value="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+									</UML:ModelElement.taggedValue>
+								</UML:ClassifierRole>
+							</UML:Namespace.ownedElement>
+							<UML:Collaboration.interaction/>
+						</UML:Collaboration>
+						<UML:Package name="Requirements" xmi.id="EAPK_94A1381A_7529_4be2_92F7_40995115F868" isRoot="false" isLeaf="false" isAbstract="false" visibility="public">
+							<UML:ModelElement.taggedValue>
+								<UML:TaggedValue tag="parent" value="EAPK_21AA9CDB_3D9F_49cc_B5FD_3AECA186B719"/>
+								<UML:TaggedValue tag="created" value="2020-11-18 15:56:15"/>
+								<UML:TaggedValue tag="modified" value="2020-11-18 15:56:15"/>
+								<UML:TaggedValue tag="iscontrolled" value="FALSE"/>
+								<UML:TaggedValue tag="lastloaddate" value="2020-11-18 15:56:15"/>
+								<UML:TaggedValue tag="lastsavedate" value="2020-11-18 15:56:15"/>
+								<UML:TaggedValue tag="isprotected" value="FALSE"/>
+								<UML:TaggedValue tag="usedtd" value="FALSE"/>
+								<UML:TaggedValue tag="logxml" value="FALSE"/>
+								<UML:TaggedValue tag="tpos" value="1"/>
+								<UML:TaggedValue tag="batchsave" value="0"/>
+								<UML:TaggedValue tag="batchload" value="0"/>
+								<UML:TaggedValue tag="packageFlags" value="isModel=1;"/>
+								<UML:TaggedValue tag="phase" value="1.0"/>
+								<UML:TaggedValue tag="status" value="Proposed"/>
+								<UML:TaggedValue tag="author" value="Olivan"/>
+								<UML:TaggedValue tag="complexity" value="1"/>
+								<UML:TaggedValue tag="ea_stype" value="Public"/>
+							</UML:ModelElement.taggedValue>
+							<UML:Namespace.ownedElement>
+								<UML:Collaboration xmi.id="EAID_94A1381A_7529_4be2_92F7_40995115F868_Collaboration" name="Collaborations">
+									<UML:Namespace.ownedElement>
+										<UML:ClassifierRole name="Requisitos Funcionais" xmi.id="EAID_460ABD09_9C9A_4560_9F42_F9D86282F70E" visibility="public" base="EAID_11111111_5487_4080_A7F4_41526CB0AA00">
+											<UML:ModelElement.taggedValue>
+												<UML:TaggedValue tag="isAbstract" value="false"/>
+												<UML:TaggedValue tag="isSpecification" value="false"/>
+												<UML:TaggedValue tag="ea_stype" value="Package"/>
+												<UML:TaggedValue tag="ea_ntype" value="0"/>
+												<UML:TaggedValue tag="version" value="1.0"/>
+												<UML:TaggedValue tag="isActive" value="false"/>
+												<UML:TaggedValue tag="package" value="EAPK_94A1381A_7529_4be2_92F7_40995115F868"/>
+												<UML:TaggedValue tag="date_created" value="2020-11-18 15:57:43"/>
+												<UML:TaggedValue tag="date_modified" value="2020-11-18 15:57:43"/>
+												<UML:TaggedValue tag="gentype" value="Java"/>
+												<UML:TaggedValue tag="tagged" value="0"/>
+												<UML:TaggedValue tag="package2" value="EAID_460ABD09_9C9A_4560_9F42_F9D86282F70E"/>
+												<UML:TaggedValue tag="package_name" value="Requirements"/>
+												<UML:TaggedValue tag="phase" value="1.0"/>
+												<UML:TaggedValue tag="author" value="Olivan"/>
+												<UML:TaggedValue tag="complexity" value="1"/>
+												<UML:TaggedValue tag="status" value="Proposed"/>
+												<UML:TaggedValue tag="tpos" value="1"/>
+												<UML:TaggedValue tag="ea_localid" value="5"/>
+												<UML:TaggedValue tag="ea_eleType" value="package"/>
+												<UML:TaggedValue tag="style" value="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+											</UML:ModelElement.taggedValue>
+										</UML:ClassifierRole>
+										<UML:ClassifierRole name="Regras de Negócio" xmi.id="EAID_A046966F_7B5D_418a_9048_E821291ACDFD" visibility="public" base="EAID_11111111_5487_4080_A7F4_41526CB0AA00">
+											<UML:ModelElement.taggedValue>
+												<UML:TaggedValue tag="isAbstract" value="false"/>
+												<UML:TaggedValue tag="isSpecification" value="false"/>
+												<UML:TaggedValue tag="ea_stype" value="Package"/>
+												<UML:TaggedValue tag="ea_ntype" value="0"/>
+												<UML:TaggedValue tag="version" value="1.0"/>
+												<UML:TaggedValue tag="isActive" value="false"/>
+												<UML:TaggedValue tag="package" value="EAPK_94A1381A_7529_4be2_92F7_40995115F868"/>
+												<UML:TaggedValue tag="date_created" value="2020-11-18 15:58:48"/>
+												<UML:TaggedValue tag="date_modified" value="2020-11-18 15:58:48"/>
+												<UML:TaggedValue tag="gentype" value="Java"/>
+												<UML:TaggedValue tag="tagged" value="0"/>
+												<UML:TaggedValue tag="package2" value="EAID_A046966F_7B5D_418a_9048_E821291ACDFD"/>
+												<UML:TaggedValue tag="package_name" value="Requirements"/>
+												<UML:TaggedValue tag="phase" value="1.0"/>
+												<UML:TaggedValue tag="author" value="Olivan"/>
+												<UML:TaggedValue tag="complexity" value="1"/>
+												<UML:TaggedValue tag="status" value="Proposed"/>
+												<UML:TaggedValue tag="tpos" value="2"/>
+												<UML:TaggedValue tag="ea_localid" value="6"/>
+												<UML:TaggedValue tag="ea_eleType" value="package"/>
+												<UML:TaggedValue tag="style" value="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+											</UML:ModelElement.taggedValue>
+										</UML:ClassifierRole>
+									</UML:Namespace.ownedElement>
+									<UML:Collaboration.interaction/>
+								</UML:Collaboration>
+								<UML:Package name="Requisitos Funcionais" xmi.id="EAPK_460ABD09_9C9A_4560_9F42_F9D86282F70E" isRoot="false" isLeaf="false" isAbstract="false" visibility="public">
+									<UML:ModelElement.taggedValue>
+										<UML:TaggedValue tag="parent" value="EAPK_94A1381A_7529_4be2_92F7_40995115F868"/>
+										<UML:TaggedValue tag="created" value="2020-11-18 15:57:43"/>
+										<UML:TaggedValue tag="modified" value="2020-11-18 15:57:43"/>
+										<UML:TaggedValue tag="iscontrolled" value="FALSE"/>
+										<UML:TaggedValue tag="version" value="1.0"/>
+										<UML:TaggedValue tag="isprotected" value="FALSE"/>
+										<UML:TaggedValue tag="usedtd" value="FALSE"/>
+										<UML:TaggedValue tag="logxml" value="FALSE"/>
+										<UML:TaggedValue tag="tpos" value="1"/>
+										<UML:TaggedValue tag="phase" value="1.0"/>
+										<UML:TaggedValue tag="status" value="Proposed"/>
+										<UML:TaggedValue tag="author" value="Olivan"/>
+										<UML:TaggedValue tag="complexity" value="1"/>
+										<UML:TaggedValue tag="ea_stype" value="Public"/>
+									</UML:ModelElement.taggedValue>
+									<UML:Namespace.ownedElement>
+										<UML:Collaboration xmi.id="EAID_460ABD09_9C9A_4560_9F42_F9D86282F70E_Collaboration" name="Collaborations">
+											<UML:Namespace.ownedElement>
+												<UML:ClassifierRole name="Business Intelligence" xmi.id="EAID_01BFC7B4_70B0_43b7_82EB_0A933A90214A" visibility="public" base="EAID_11111111_5487_4080_A7F4_41526CB0AA00">
+													<UML:ModelElement.taggedValue>
+														<UML:TaggedValue tag="isAbstract" value="false"/>
+														<UML:TaggedValue tag="isSpecification" value="false"/>
+														<UML:TaggedValue tag="ea_stype" value="Boundary"/>
+														<UML:TaggedValue tag="ea_ntype" value="0"/>
+														<UML:TaggedValue tag="version" value="1.0"/>
+														<UML:TaggedValue tag="isActive" value="false"/>
+														<UML:TaggedValue tag="package" value="EAPK_460ABD09_9C9A_4560_9F42_F9D86282F70E"/>
+														<UML:TaggedValue tag="date_created" value="2020-11-19 10:10:21"/>
+														<UML:TaggedValue tag="date_modified" value="2020-11-19 10:10:34"/>
+														<UML:TaggedValue tag="gentype" value="&lt;none&gt;"/>
+														<UML:TaggedValue tag="tagged" value="0"/>
+														<UML:TaggedValue tag="package_name" value="Requisitos Funcionais"/>
+														<UML:TaggedValue tag="phase" value="1.0"/>
+														<UML:TaggedValue tag="author" value="Olivan"/>
+														<UML:TaggedValue tag="complexity" value="1"/>
+														<UML:TaggedValue tag="status" value="Proposed"/>
+														<UML:TaggedValue tag="tpos" value="0"/>
+														<UML:TaggedValue tag="ea_localid" value="19"/>
+														<UML:TaggedValue tag="ea_eleType" value="element"/>
+														<UML:TaggedValue tag="style" value="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=3;"/>
+													</UML:ModelElement.taggedValue>
+												</UML:ClassifierRole>
+												<UML:ClassifierRole name="RF009 - Manter controle de pagamentos" xmi.id="EAID_01DA132C_1443_432b_978C_65E4386E0E09" visibility="public" base="EAID_11111111_5487_4080_A7F4_41526CB0AA00">
+													<UML:ModelElement.stereotype>
+														<UML:Stereotype name="Functional"/>
+													</UML:ModelElement.stereotype>
+													<UML:ModelElement.taggedValue>
+														<UML:TaggedValue tag="documentation" value="&lt;ul&gt;&#xA;	&lt;li&gt;O sistema deve permitir que os locatários e compradores realizem pagamentos pelo sistema, por meio de cartão de crédito, boleto;&lt;/li&gt;&#xA;	&lt;li&gt;o sistema deve alertar o proprietário e corretor que o pagamento está em atraso&lt;/li&gt;&#xA;&lt;/ul&gt;"/>
+														<UML:TaggedValue tag="isAbstract" value="false"/>
+														<UML:TaggedValue tag="isSpecification" value="false"/>
+														<UML:TaggedValue tag="ea_stype" value="Requirement"/>
+														<UML:TaggedValue tag="ea_ntype" value="0"/>
+														<UML:TaggedValue tag="version" value="1.0"/>
+														<UML:TaggedValue tag="isActive" value="false"/>
+														<UML:TaggedValue tag="package" value="EAPK_460ABD09_9C9A_4560_9F42_F9D86282F70E"/>
+														<UML:TaggedValue tag="date_created" value="2020-11-19 10:15:51"/>
+														<UML:TaggedValue tag="date_modified" value="2020-11-19 15:54:48"/>
+														<UML:TaggedValue tag="gentype" value="&lt;none&gt;"/>
+														<UML:TaggedValue tag="tagged" value="0"/>
+														<UML:TaggedValue tag="package_name" value="Requisitos Funcionais"/>
+														<UML:TaggedValue tag="phase" value="1.0"/>
+														<UML:TaggedValue tag="author" value="Olivan"/>
+														<UML:TaggedValue tag="complexity" value="1"/>
+														<UML:TaggedValue tag="status" value="Proposed"/>
+														<UML:TaggedValue tag="stereotype" value="Functional"/>
+														<UML:TaggedValue tag="tpos" value="0"/>
+														<UML:TaggedValue tag="ea_localid" value="22"/>
+														<UML:TaggedValue tag="ea_eleType" value="element"/>
+														<UML:TaggedValue tag="difficulty" value="Medium"/>
+														<UML:TaggedValue tag="priority" value="Medium"/>
+														<UML:TaggedValue tag="style" value="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+														<UML:TaggedValue tag="$ea_xref_property" value="$XREFPROP=$XID={720803E9-8AF8-48a2-9C85-7871EF2736AD}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=Functional;@ENDSTEREO;$DES;$CLT={01DA132C-1443-432b-978C-65E4386E0E09}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
+													</UML:ModelElement.taggedValue>
+												</UML:ClassifierRole>
+												<UML:ClassifierRole name="RF008 - Manter BI" xmi.id="EAID_02F071FA_9EAF_4737_BF56_6F5048775497" visibility="public" base="EAID_11111111_5487_4080_A7F4_41526CB0AA00">
+													<UML:ModelElement.stereotype>
+														<UML:Stereotype name="Functional"/>
+													</UML:ModelElement.stereotype>
+													<UML:ModelElement.taggedValue>
+														<UML:TaggedValue tag="documentation" value="&lt;ul&gt;&#xA;	&lt;li&gt;O sistema deve permitir que os usuarios administradores, corretores visualizem um BI contendo informações para auxiliar na tomada de decisões;&lt;/li&gt;&#xA;	&lt;li&gt;Faixas de Valores indicadas dependendo da localidade de imóveis;&lt;/li&gt;&#xA;	&lt;li&gt;Localidades mais procuradas;&lt;/li&gt;&#xA;	&lt;li&gt;Valores de imóveis indicados de acordo com as características dos imóveis;&lt;/li&gt;&#xA;	&lt;li&gt;Exemplos de indicadores: cidade que mais demanda, tipo de imóvel, quantos metros quadrados, usar estatística para comparar imóveis com base nos cadastros cadastrados, pode-se usar o tempo de pesquisa para indicar imóvel mais acessado,&lt;/li&gt;&#xA;	&lt;li&gt;Usar combinação dos parâmetros de consulta que existem no manter controle de imóveis&lt;/li&gt;&#xA;	&lt;li&gt;o acesso deve ser feito no próprio site da imobiliária&lt;/li&gt;&#xA;	&lt;li&gt;Sugetão: usar power bi&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;Obs: licença paga ? conexao ao banco e atualização de hora em hora ?"/>
+														<UML:TaggedValue tag="isAbstract" value="false"/>
+														<UML:TaggedValue tag="isSpecification" value="false"/>
+														<UML:TaggedValue tag="ea_stype" value="Requirement"/>
+														<UML:TaggedValue tag="ea_ntype" value="0"/>
+														<UML:TaggedValue tag="version" value="1.0"/>
+														<UML:TaggedValue tag="isActive" value="false"/>
+														<UML:TaggedValue tag="package" value="EAPK_460ABD09_9C9A_4560_9F42_F9D86282F70E"/>
+														<UML:TaggedValue tag="date_created" value="2020-11-19 10:11:10"/>
+														<UML:TaggedValue tag="date_modified" value="2020-11-19 15:54:06"/>
+														<UML:TaggedValue tag="gentype" value="&lt;none&gt;"/>
+														<UML:TaggedValue tag="tagged" value="0"/>
+														<UML:TaggedValue tag="package_name" value="Requisitos Funcionais"/>
+														<UML:TaggedValue tag="phase" value="1.0"/>
+														<UML:TaggedValue tag="author" value="Ronyerison"/>
+														<UML:TaggedValue tag="complexity" value="1"/>
+														<UML:TaggedValue tag="status" value="Proposed"/>
+														<UML:TaggedValue tag="stereotype" value="Functional"/>
+														<UML:TaggedValue tag="tpos" value="0"/>
+														<UML:TaggedValue tag="ea_localid" value="20"/>
+														<UML:TaggedValue tag="ea_eleType" value="element"/>
+														<UML:TaggedValue tag="difficulty" value="High"/>
+														<UML:TaggedValue tag="priority" value="Medium"/>
+														<UML:TaggedValue tag="style" value="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+														<UML:TaggedValue tag="$ea_xref_property" value="$XREFPROP=$XID={57DACA85-5687-4caa-B90D-07883D55FBD3}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=Functional;@ENDSTEREO;$DES;$CLT={02F071FA-9EAF-4737-BF56-6F5048775497}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
+													</UML:ModelElement.taggedValue>
+												</UML:ClassifierRole>
+												<UML:ClassifierRole name="Integrações" xmi.id="EAID_151880FA_D3D0_421c_B8F6_C04F31EA7CE7" visibility="public" base="EAID_11111111_5487_4080_A7F4_41526CB0AA00">
+													<UML:ModelElement.taggedValue>
+														<UML:TaggedValue tag="isAbstract" value="false"/>
+														<UML:TaggedValue tag="isSpecification" value="false"/>
+														<UML:TaggedValue tag="ea_stype" value="Boundary"/>
+														<UML:TaggedValue tag="ea_ntype" value="0"/>
+														<UML:TaggedValue tag="version" value="1.0"/>
+														<UML:TaggedValue tag="isActive" value="false"/>
+														<UML:TaggedValue tag="package" value="EAPK_460ABD09_9C9A_4560_9F42_F9D86282F70E"/>
+														<UML:TaggedValue tag="date_created" value="2020-11-19 10:19:16"/>
+														<UML:TaggedValue tag="date_modified" value="2020-11-19 10:19:24"/>
+														<UML:TaggedValue tag="gentype" value="&lt;none&gt;"/>
+														<UML:TaggedValue tag="tagged" value="0"/>
+														<UML:TaggedValue tag="package_name" value="Requisitos Funcionais"/>
+														<UML:TaggedValue tag="phase" value="1.0"/>
+														<UML:TaggedValue tag="author" value="Olivan"/>
+														<UML:TaggedValue tag="complexity" value="1"/>
+														<UML:TaggedValue tag="status" value="Proposed"/>
+														<UML:TaggedValue tag="tpos" value="0"/>
+														<UML:TaggedValue tag="ea_localid" value="23"/>
+														<UML:TaggedValue tag="ea_eleType" value="element"/>
+														<UML:TaggedValue tag="style" value="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=3;"/>
+													</UML:ModelElement.taggedValue>
+												</UML:ClassifierRole>
+												<UML:ClassifierRole name="Financeiro" xmi.id="EAID_260CB665_6B35_4324_8E43_00B90CB4DF02" visibility="public" base="EAID_11111111_5487_4080_A7F4_41526CB0AA00">
+													<UML:ModelElement.taggedValue>
+														<UML:TaggedValue tag="isAbstract" value="false"/>
+														<UML:TaggedValue tag="isSpecification" value="false"/>
+														<UML:TaggedValue tag="ea_stype" value="Boundary"/>
+														<UML:TaggedValue tag="ea_ntype" value="0"/>
+														<UML:TaggedValue tag="version" value="1.0"/>
+														<UML:TaggedValue tag="isActive" value="false"/>
+														<UML:TaggedValue tag="package" value="EAPK_460ABD09_9C9A_4560_9F42_F9D86282F70E"/>
+														<UML:TaggedValue tag="date_created" value="2020-11-19 10:15:22"/>
+														<UML:TaggedValue tag="date_modified" value="2020-11-19 10:15:33"/>
+														<UML:TaggedValue tag="gentype" value="&lt;none&gt;"/>
+														<UML:TaggedValue tag="tagged" value="0"/>
+														<UML:TaggedValue tag="package_name" value="Requisitos Funcionais"/>
+														<UML:TaggedValue tag="phase" value="1.0"/>
+														<UML:TaggedValue tag="author" value="Olivan"/>
+														<UML:TaggedValue tag="complexity" value="1"/>
+														<UML:TaggedValue tag="status" value="Proposed"/>
+														<UML:TaggedValue tag="tpos" value="0"/>
+														<UML:TaggedValue tag="ea_localid" value="21"/>
+														<UML:TaggedValue tag="ea_eleType" value="element"/>
+														<UML:TaggedValue tag="style" value="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=3;"/>
+													</UML:ModelElement.taggedValue>
+												</UML:ClassifierRole>
+												<UML:ClassifierRole name="RF010 - Manter controle de contas" xmi.id="EAID_53E47416_0092_4fec_8151_961375839605" visibility="public" base="EAID_11111111_5487_4080_A7F4_41526CB0AA00">
+													<UML:ModelElement.stereotype>
+														<UML:Stereotype name="Functional"/>
+													</UML:ModelElement.stereotype>
+													<UML:ModelElement.taggedValue>
+														<UML:TaggedValue tag="documentation" value="&lt;ul&gt;&#xA;	&lt;li&gt;O sistema deve permitir que os usuarios proprietários, corretores mantenham controle de contas a receber, registradas ao efetivar contratos de compras e locação de imóveis;&lt;/li&gt;&#xA;	&lt;li&gt;o sistema deve ter alertas (sms, e-mail, mensagens no whats da imobiliária com os alertas)&lt;/li&gt;&#xA;&lt;/ul&gt;"/>
+														<UML:TaggedValue tag="isAbstract" value="false"/>
+														<UML:TaggedValue tag="isSpecification" value="false"/>
+														<UML:TaggedValue tag="ea_stype" value="Requirement"/>
+														<UML:TaggedValue tag="ea_ntype" value="0"/>
+														<UML:TaggedValue tag="version" value="1.0"/>
+														<UML:TaggedValue tag="isActive" value="false"/>
+														<UML:TaggedValue tag="package" value="EAPK_460ABD09_9C9A_4560_9F42_F9D86282F70E"/>
+														<UML:TaggedValue tag="date_created" value="2020-11-19 10:20:14"/>
+														<UML:TaggedValue tag="date_modified" value="2020-11-19 15:55:34"/>
+														<UML:TaggedValue tag="gentype" value="&lt;none&gt;"/>
+														<UML:TaggedValue tag="tagged" value="0"/>
+														<UML:TaggedValue tag="package_name" value="Requisitos Funcionais"/>
+														<UML:TaggedValue tag="phase" value="1.0"/>
+														<UML:TaggedValue tag="author" value="Olivan"/>
+														<UML:TaggedValue tag="complexity" value="1"/>
+														<UML:TaggedValue tag="status" value="Proposed"/>
+														<UML:TaggedValue tag="stereotype" value="Functional"/>
+														<UML:TaggedValue tag="tpos" value="0"/>
+														<UML:TaggedValue tag="ea_localid" value="24"/>
+														<UML:TaggedValue tag="ea_eleType" value="element"/>
+														<UML:TaggedValue tag="difficulty" value="Medium"/>
+														<UML:TaggedValue tag="priority" value="Medium"/>
+														<UML:TaggedValue tag="style" value="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+														<UML:TaggedValue tag="$ea_xref_property" value="$XREFPROP=$XID={6AD7923E-E272-4302-B89A-624BF426DB4E}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=Functional;@ENDSTEREO;$DES;$CLT={53E47416-0092-4fec-8151-961375839605}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
+													</UML:ModelElement.taggedValue>
+												</UML:ClassifierRole>
+												<UML:ClassifierRole name="Operações" xmi.id="EAID_677DC77E_122A_46e5_9EF5_7E5F4531E6A3" visibility="public" base="EAID_11111111_5487_4080_A7F4_41526CB0AA00">
+													<UML:ModelElement.taggedValue>
+														<UML:TaggedValue tag="isAbstract" value="false"/>
+														<UML:TaggedValue tag="isSpecification" value="false"/>
+														<UML:TaggedValue tag="ea_stype" value="Boundary"/>
+														<UML:TaggedValue tag="ea_ntype" value="0"/>
+														<UML:TaggedValue tag="version" value="1.0"/>
+														<UML:TaggedValue tag="isActive" value="false"/>
+														<UML:TaggedValue tag="package" value="EAPK_460ABD09_9C9A_4560_9F42_F9D86282F70E"/>
+														<UML:TaggedValue tag="date_created" value="2020-11-19 09:16:59"/>
+														<UML:TaggedValue tag="date_modified" value="2020-11-19 09:17:06"/>
+														<UML:TaggedValue tag="gentype" value="&lt;none&gt;"/>
+														<UML:TaggedValue tag="tagged" value="0"/>
+														<UML:TaggedValue tag="package_name" value="Requisitos Funcionais"/>
+														<UML:TaggedValue tag="phase" value="1.0"/>
+														<UML:TaggedValue tag="author" value="Olivan"/>
+														<UML:TaggedValue tag="complexity" value="1"/>
+														<UML:TaggedValue tag="status" value="Proposed"/>
+														<UML:TaggedValue tag="tpos" value="0"/>
+														<UML:TaggedValue tag="ea_localid" value="13"/>
+														<UML:TaggedValue tag="ea_eleType" value="element"/>
+														<UML:TaggedValue tag="style" value="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=3;"/>
+													</UML:ModelElement.taggedValue>
+												</UML:ClassifierRole>
+												<UML:ClassifierRole name="RF003 - Manter controle de proprietários" xmi.id="EAID_91A1B005_630E_47a6_8CCD_19EE0726C3D4" visibility="public" base="EAID_11111111_5487_4080_A7F4_41526CB0AA00">
+													<UML:ModelElement.stereotype>
+														<UML:Stereotype name="Functional"/>
+													</UML:ModelElement.stereotype>
+													<UML:ModelElement.taggedValue>
+														<UML:TaggedValue tag="documentation" value="&lt;ul&gt;&#xA;	&lt;li&gt;O sistema deve manter registro dos proprietários de imóveis devendo ser vinculados obrigatoriamente a um proprietário;&lt;/li&gt;&#xA;	&lt;li&gt;O sistema deverá permitir que os proprietarios registrados no sistema cadastrem, alterem, removam registros dos seus imóveis;&lt;/li&gt;&#xA;	&lt;li&gt;O proprietário será responsável por validar as informações dos seus imóveis cadastrados pelos corretores;&lt;/li&gt;&#xA;&lt;/ul&gt;"/>
+														<UML:TaggedValue tag="isAbstract" value="false"/>
+														<UML:TaggedValue tag="isSpecification" value="false"/>
+														<UML:TaggedValue tag="ea_stype" value="Requirement"/>
+														<UML:TaggedValue tag="ea_ntype" value="0"/>
+														<UML:TaggedValue tag="version" value="1.0"/>
+														<UML:TaggedValue tag="isActive" value="false"/>
+														<UML:TaggedValue tag="package" value="EAPK_460ABD09_9C9A_4560_9F42_F9D86282F70E"/>
+														<UML:TaggedValue tag="date_created" value="2020-11-19 09:09:26"/>
+														<UML:TaggedValue tag="date_modified" value="2020-11-19 15:49:42"/>
+														<UML:TaggedValue tag="gentype" value="&lt;none&gt;"/>
+														<UML:TaggedValue tag="tagged" value="0"/>
+														<UML:TaggedValue tag="package_name" value="Requisitos Funcionais"/>
+														<UML:TaggedValue tag="phase" value="1.0"/>
+														<UML:TaggedValue tag="author" value="Ronyerison"/>
+														<UML:TaggedValue tag="complexity" value="1"/>
+														<UML:TaggedValue tag="status" value="Proposed"/>
+														<UML:TaggedValue tag="stereotype" value="Functional"/>
+														<UML:TaggedValue tag="tpos" value="0"/>
+														<UML:TaggedValue tag="ea_localid" value="10"/>
+														<UML:TaggedValue tag="ea_eleType" value="element"/>
+														<UML:TaggedValue tag="difficulty" value="Medium"/>
+														<UML:TaggedValue tag="priority" value="Medium"/>
+														<UML:TaggedValue tag="style" value="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+														<UML:TaggedValue tag="$ea_xref_property" value="$XREFPROP=$XID={EC8A5DC8-22F9-4e34-B71C-2B6AFE36BC2B}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=Functional;@ENDSTEREO;$DES;$CLT={91A1B005-630E-47a6-8CCD-19EE0726C3D4}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
+													</UML:ModelElement.taggedValue>
+												</UML:ClassifierRole>
+												<UML:ClassifierRole name="RF012 - Integrar Georeferenciamento com Google Maps" xmi.id="EAID_B73130E3_F7A1_4421_96D5_3CA1FA695CA6" visibility="public" base="EAID_11111111_5487_4080_A7F4_41526CB0AA00">
+													<UML:ModelElement.stereotype>
+														<UML:Stereotype name="Functional"/>
+													</UML:ModelElement.stereotype>
+													<UML:ModelElement.taggedValue>
+														<UML:TaggedValue tag="documentation" value="&lt;ul&gt;&#xA;	&lt;li&gt;O sistema deve estár integrado com API do Google Maps para apresentação de mapas nas páginas do sistema contendo o georeferenciamento dos imóveis;&lt;/li&gt;&#xA;	&lt;li&gt;Por exemplo, ao visualizar as informações de um imóvel o usuário poderá visualizar a localização em um mapa interno no sistema;&lt;/li&gt;&#xA;&lt;/ul&gt;"/>
+														<UML:TaggedValue tag="isAbstract" value="false"/>
+														<UML:TaggedValue tag="isSpecification" value="false"/>
+														<UML:TaggedValue tag="ea_stype" value="Requirement"/>
+														<UML:TaggedValue tag="ea_ntype" value="0"/>
+														<UML:TaggedValue tag="version" value="1.0"/>
+														<UML:TaggedValue tag="isActive" value="false"/>
+														<UML:TaggedValue tag="package" value="EAPK_460ABD09_9C9A_4560_9F42_F9D86282F70E"/>
+														<UML:TaggedValue tag="date_created" value="2020-11-19 16:24:38"/>
+														<UML:TaggedValue tag="date_modified" value="2020-11-19 16:27:29"/>
+														<UML:TaggedValue tag="gentype" value="&lt;none&gt;"/>
+														<UML:TaggedValue tag="tagged" value="0"/>
+														<UML:TaggedValue tag="package_name" value="Requisitos Funcionais"/>
+														<UML:TaggedValue tag="phase" value="1.0"/>
+														<UML:TaggedValue tag="author" value="Ronyerison"/>
+														<UML:TaggedValue tag="complexity" value="1"/>
+														<UML:TaggedValue tag="status" value="Proposed"/>
+														<UML:TaggedValue tag="stereotype" value="Functional"/>
+														<UML:TaggedValue tag="tpos" value="0"/>
+														<UML:TaggedValue tag="ea_localid" value="36"/>
+														<UML:TaggedValue tag="ea_eleType" value="element"/>
+														<UML:TaggedValue tag="difficulty" value="High"/>
+														<UML:TaggedValue tag="priority" value="High"/>
+														<UML:TaggedValue tag="style" value="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+														<UML:TaggedValue tag="$ea_xref_property" value="$XREFPROP=$XID={A208BD2F-2FB0-46f8-9862-9CC5E915870F}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=Functional;GUID={85DBC31B-897E-430f-8F6E-C98883D4D32D};@ENDSTEREO;$DES;$CLT={B73130E3-F7A1-4421-96D5-3CA1FA695CA6}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
+													</UML:ModelElement.taggedValue>
+												</UML:ClassifierRole>
+												<UML:ClassifierRole name="RF007 - Manter controle de notificações" xmi.id="EAID_B80E243D_0D0F_4600_BFF9_F7BF7E79F314" visibility="public" base="EAID_11111111_5487_4080_A7F4_41526CB0AA00">
+													<UML:ModelElement.stereotype>
+														<UML:Stereotype name="Functional"/>
+													</UML:ModelElement.stereotype>
+													<UML:ModelElement.taggedValue>
+														<UML:TaggedValue tag="documentation" value="&lt;ul&gt;&#xA;	&lt;li&gt;Ao registrar anuncios, proposta de compras, locação o sistema deve informar enviar notificações aos usuarios vinculados ao imóvel via whatsapp, email, sms;&lt;/li&gt;&#xA;	&lt;li&gt;Qualquer alteração nos anuncios ou mudança de status notificações devem ser enviadas aos proprietários e corretores vinculados;&lt;/li&gt;&#xA;	&lt;li&gt;Tambem devem ser notificados os compradores e locatários de imóveis;&lt;/li&gt;&#xA;&lt;/ul&gt;"/>
+														<UML:TaggedValue tag="isAbstract" value="false"/>
+														<UML:TaggedValue tag="isSpecification" value="false"/>
+														<UML:TaggedValue tag="ea_stype" value="Requirement"/>
+														<UML:TaggedValue tag="ea_ntype" value="0"/>
+														<UML:TaggedValue tag="version" value="1.0"/>
+														<UML:TaggedValue tag="isActive" value="false"/>
+														<UML:TaggedValue tag="package" value="EAPK_460ABD09_9C9A_4560_9F42_F9D86282F70E"/>
+														<UML:TaggedValue tag="date_created" value="2020-11-19 09:38:39"/>
+														<UML:TaggedValue tag="date_modified" value="2020-11-19 09:41:42"/>
+														<UML:TaggedValue tag="gentype" value="&lt;none&gt;"/>
+														<UML:TaggedValue tag="tagged" value="0"/>
+														<UML:TaggedValue tag="package_name" value="Requisitos Funcionais"/>
+														<UML:TaggedValue tag="phase" value="1.0"/>
+														<UML:TaggedValue tag="author" value="Ronyerison"/>
+														<UML:TaggedValue tag="complexity" value="1"/>
+														<UML:TaggedValue tag="status" value="Proposed"/>
+														<UML:TaggedValue tag="stereotype" value="Functional"/>
+														<UML:TaggedValue tag="tpos" value="0"/>
+														<UML:TaggedValue tag="ea_localid" value="18"/>
+														<UML:TaggedValue tag="ea_eleType" value="element"/>
+														<UML:TaggedValue tag="difficulty" value="High"/>
+														<UML:TaggedValue tag="priority" value="High"/>
+														<UML:TaggedValue tag="style" value="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+														<UML:TaggedValue tag="$ea_xref_property" value="$XREFPROP=$XID={8441D284-3234-4eb5-9D06-F59DB98AEC81}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=Functional;@ENDSTEREO;$DES;$CLT={B80E243D-0D0F-4600-BFF9-F7BF7E79F314}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
+													</UML:ModelElement.taggedValue>
+												</UML:ClassifierRole>
+												<UML:ClassifierRole name="RF006 - Manter controle de anúncios de imóveis" xmi.id="EAID_C5190C7E_C1A5_4926_BCC5_1C3FE8150437" visibility="public" base="EAID_11111111_5487_4080_A7F4_41526CB0AA00">
+													<UML:ModelElement.stereotype>
+														<UML:Stereotype name="Functional"/>
+													</UML:ModelElement.stereotype>
+													<UML:ModelElement.taggedValue>
+														<UML:TaggedValue tag="documentation" value="&lt;ul&gt;&#xA;	&lt;li&gt;O sistema deve permitir que os proprietários ou corretores registrem anuncios de imóveis;&lt;/li&gt;&#xA;	&lt;li&gt;O anuncio do imóvel passará por algumas etapas antes de ficar disponível ao publico. Possuirá a etapa de cadastro registrando as informações principais, inclusão de imagens, videos e etapa de validação que deverá ser realizada pelo proprietário para assegurar que as informações estejam corretas;&lt;/li&gt;&#xA;	&lt;li&gt;O sistema deve permitir que o proprietario ou corretor vinculado altere as informações do anuncio do imóvel, sempre que for alterado a informação deve ser validada pelo proprietário&lt;/li&gt;&#xA;	&lt;li&gt;Usuário publico poderá consultar os anuncios e caso tenha interesse no imóvel-, poderá registrar a compra ou locação&lt;/li&gt;&#xA;&lt;/ul&gt;"/>
+														<UML:TaggedValue tag="isAbstract" value="false"/>
+														<UML:TaggedValue tag="isSpecification" value="false"/>
+														<UML:TaggedValue tag="ea_stype" value="Requirement"/>
+														<UML:TaggedValue tag="ea_ntype" value="0"/>
+														<UML:TaggedValue tag="version" value="1.0"/>
+														<UML:TaggedValue tag="isActive" value="false"/>
+														<UML:TaggedValue tag="package" value="EAPK_460ABD09_9C9A_4560_9F42_F9D86282F70E"/>
+														<UML:TaggedValue tag="date_created" value="2020-11-19 09:26:57"/>
+														<UML:TaggedValue tag="date_modified" value="2020-11-19 09:36:05"/>
+														<UML:TaggedValue tag="gentype" value="&lt;none&gt;"/>
+														<UML:TaggedValue tag="tagged" value="0"/>
+														<UML:TaggedValue tag="package_name" value="Requisitos Funcionais"/>
+														<UML:TaggedValue tag="phase" value="1.0"/>
+														<UML:TaggedValue tag="author" value="Ronyerison"/>
+														<UML:TaggedValue tag="complexity" value="1"/>
+														<UML:TaggedValue tag="status" value="Proposed"/>
+														<UML:TaggedValue tag="stereotype" value="Functional"/>
+														<UML:TaggedValue tag="tpos" value="0"/>
+														<UML:TaggedValue tag="ea_localid" value="17"/>
+														<UML:TaggedValue tag="ea_eleType" value="element"/>
+														<UML:TaggedValue tag="difficulty" value="Medium"/>
+														<UML:TaggedValue tag="priority" value="Medium"/>
+														<UML:TaggedValue tag="style" value="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+														<UML:TaggedValue tag="$ea_xref_property" value="$XREFPROP=$XID={E569CD72-4996-4970-BF0F-615DA5C2073D}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=Functional;@ENDSTEREO;$DES;$CLT={C5190C7E-C1A5-4926-BCC5-1C3FE8150437}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
+													</UML:ModelElement.taggedValue>
+												</UML:ClassifierRole>
+												<UML:ClassifierRole name="RF011 - Manter locatário" xmi.id="EAID_C796CEE8_DC23_493e_A136_AF5475B627BD" visibility="public" base="EAID_11111111_5487_4080_A7F4_41526CB0AA00">
+													<UML:ModelElement.stereotype>
+														<UML:Stereotype name="Functional"/>
+													</UML:ModelElement.stereotype>
+													<UML:ModelElement.taggedValue>
+														<UML:TaggedValue tag="documentation" value="&lt;ul&gt;&#xA;	&lt;li&gt;O sistema deve manter os dados dos locatários (Pf ou Pj) &lt;/li&gt;&#xA;	&lt;li&gt;Este podem ser associado a uma ou mais vendas; a uma ou mais locações&lt;/li&gt;&#xA;	&lt;li&gt;Este deve ter contato telefone e email válidos para fins de notificação&lt;/li&gt;&#xA;&lt;/ul&gt;"/>
+														<UML:TaggedValue tag="isAbstract" value="false"/>
+														<UML:TaggedValue tag="isSpecification" value="false"/>
+														<UML:TaggedValue tag="ea_stype" value="Requirement"/>
+														<UML:TaggedValue tag="ea_ntype" value="0"/>
+														<UML:TaggedValue tag="version" value="1.0"/>
+														<UML:TaggedValue tag="isActive" value="false"/>
+														<UML:TaggedValue tag="package" value="EAPK_460ABD09_9C9A_4560_9F42_F9D86282F70E"/>
+														<UML:TaggedValue tag="date_created" value="2020-11-19 15:57:07"/>
+														<UML:TaggedValue tag="date_modified" value="2020-11-19 16:04:56"/>
+														<UML:TaggedValue tag="gentype" value="&lt;none&gt;"/>
+														<UML:TaggedValue tag="tagged" value="0"/>
+														<UML:TaggedValue tag="package_name" value="Requisitos Funcionais"/>
+														<UML:TaggedValue tag="phase" value="1.0"/>
+														<UML:TaggedValue tag="author" value="Karolliny Lima"/>
+														<UML:TaggedValue tag="complexity" value="1"/>
+														<UML:TaggedValue tag="status" value="Proposed"/>
+														<UML:TaggedValue tag="stereotype" value="Functional"/>
+														<UML:TaggedValue tag="tpos" value="0"/>
+														<UML:TaggedValue tag="ea_localid" value="25"/>
+														<UML:TaggedValue tag="ea_eleType" value="element"/>
+														<UML:TaggedValue tag="difficulty" value="Medium"/>
+														<UML:TaggedValue tag="priority" value="Medium"/>
+														<UML:TaggedValue tag="style" value="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+														<UML:TaggedValue tag="$ea_xref_property" value="$XREFPROP=$XID={749EC2BD-D6A3-47e0-906D-CEC9BBB40159}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=Functional;GUID={85DBC31B-897E-430f-8F6E-C98883D4D32D};@ENDSTEREO;$DES;$CLT={C796CEE8-DC23-493e-A136-AF5475B627BD}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
+													</UML:ModelElement.taggedValue>
+												</UML:ClassifierRole>
+												<UML:ClassifierRole name="Imóveis" xmi.id="EAID_CD821ABC_E902_464f_9FE9_D4D0087C5DB2" visibility="public" base="EAID_11111111_5487_4080_A7F4_41526CB0AA00">
+													<UML:ModelElement.taggedValue>
+														<UML:TaggedValue tag="isAbstract" value="false"/>
+														<UML:TaggedValue tag="isSpecification" value="false"/>
+														<UML:TaggedValue tag="ea_stype" value="Boundary"/>
+														<UML:TaggedValue tag="ea_ntype" value="0"/>
+														<UML:TaggedValue tag="version" value="1.0"/>
+														<UML:TaggedValue tag="isActive" value="false"/>
+														<UML:TaggedValue tag="package" value="EAPK_460ABD09_9C9A_4560_9F42_F9D86282F70E"/>
+														<UML:TaggedValue tag="date_created" value="2020-11-19 09:16:05"/>
+														<UML:TaggedValue tag="date_modified" value="2020-11-19 09:18:25"/>
+														<UML:TaggedValue tag="gentype" value="&lt;none&gt;"/>
+														<UML:TaggedValue tag="tagged" value="0"/>
+														<UML:TaggedValue tag="package_name" value="Requisitos Funcionais"/>
+														<UML:TaggedValue tag="phase" value="1.0"/>
+														<UML:TaggedValue tag="author" value="Olivan"/>
+														<UML:TaggedValue tag="complexity" value="1"/>
+														<UML:TaggedValue tag="status" value="Proposed"/>
+														<UML:TaggedValue tag="tpos" value="0"/>
+														<UML:TaggedValue tag="ea_localid" value="12"/>
+														<UML:TaggedValue tag="ea_eleType" value="element"/>
+														<UML:TaggedValue tag="style" value="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=3;"/>
+													</UML:ModelElement.taggedValue>
+												</UML:ClassifierRole>
+												<UML:ClassifierRole name="RF005 - Manter controle de compras de imóveis" xmi.id="EAID_D316D2FB_5B90_4e3e_B634_FA4B7848C032" visibility="public" base="EAID_11111111_5487_4080_A7F4_41526CB0AA00">
+													<UML:ModelElement.stereotype>
+														<UML:Stereotype name="Functional"/>
+													</UML:ModelElement.stereotype>
+													<UML:ModelElement.taggedValue>
+														<UML:TaggedValue tag="documentation" value="&lt;ul&gt;&#xA;	&lt;li&gt;O sistema deve manter os registros das compras de imóveis;&lt;/li&gt;&#xA;	&lt;li&gt;As compras deverão ter as informações de: comprador,  imóvel, valor, data, forma de pagamento;&lt;/li&gt;&#xA;	&lt;li&gt;Ao registrar a compra deve ser atualizada a situação do anuncio do imóvel no sistema;&lt;/li&gt;&#xA;&lt;/ul&gt;"/>
+														<UML:TaggedValue tag="isAbstract" value="false"/>
+														<UML:TaggedValue tag="isSpecification" value="false"/>
+														<UML:TaggedValue tag="ea_stype" value="Requirement"/>
+														<UML:TaggedValue tag="ea_ntype" value="0"/>
+														<UML:TaggedValue tag="version" value="1.0"/>
+														<UML:TaggedValue tag="isActive" value="false"/>
+														<UML:TaggedValue tag="package" value="EAPK_460ABD09_9C9A_4560_9F42_F9D86282F70E"/>
+														<UML:TaggedValue tag="date_created" value="2020-11-19 09:22:52"/>
+														<UML:TaggedValue tag="date_modified" value="2020-11-19 09:26:24"/>
+														<UML:TaggedValue tag="gentype" value="&lt;none&gt;"/>
+														<UML:TaggedValue tag="tagged" value="0"/>
+														<UML:TaggedValue tag="package_name" value="Requisitos Funcionais"/>
+														<UML:TaggedValue tag="phase" value="1.0"/>
+														<UML:TaggedValue tag="author" value="Ronyerison"/>
+														<UML:TaggedValue tag="complexity" value="1"/>
+														<UML:TaggedValue tag="status" value="Proposed"/>
+														<UML:TaggedValue tag="stereotype" value="Functional"/>
+														<UML:TaggedValue tag="tpos" value="0"/>
+														<UML:TaggedValue tag="ea_localid" value="16"/>
+														<UML:TaggedValue tag="ea_eleType" value="element"/>
+														<UML:TaggedValue tag="difficulty" value="Medium"/>
+														<UML:TaggedValue tag="priority" value="Medium"/>
+														<UML:TaggedValue tag="style" value="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+														<UML:TaggedValue tag="$ea_xref_property" value="$XREFPROP=$XID={686DEA86-FC58-43ec-B1D2-61EF11DC0A70}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=Functional;@ENDSTEREO;$DES;$CLT={D316D2FB-5B90-4e3e-B634-FA4B7848C032}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
+													</UML:ModelElement.taggedValue>
+												</UML:ClassifierRole>
+												<UML:ClassifierRole name="RF004 - Manter controle de aluguéis" xmi.id="EAID_D72085B3_0656_464d_A583_D13DAF1A3B23" visibility="public" base="EAID_11111111_5487_4080_A7F4_41526CB0AA00">
+													<UML:ModelElement.stereotype>
+														<UML:Stereotype name="Functional"/>
+													</UML:ModelElement.stereotype>
+													<UML:ModelElement.taggedValue>
+														<UML:TaggedValue tag="documentation" value="&lt;ul&gt;&#xA;	&lt;li&gt;O sistema deve manter os registros de aluguéis de imóveis no sistema;&lt;/li&gt;&#xA;	&lt;li&gt;Os aluguéis devem está vinculado um locatário à um imóvel, que por sua vez possui as informações do proprietário, corretor vinculado caso exista;&lt;/li&gt;&#xA;&lt;/ul&gt;"/>
+														<UML:TaggedValue tag="isAbstract" value="false"/>
+														<UML:TaggedValue tag="isSpecification" value="false"/>
+														<UML:TaggedValue tag="ea_stype" value="Requirement"/>
+														<UML:TaggedValue tag="ea_ntype" value="0"/>
+														<UML:TaggedValue tag="version" value="1.0"/>
+														<UML:TaggedValue tag="isActive" value="false"/>
+														<UML:TaggedValue tag="package" value="EAPK_460ABD09_9C9A_4560_9F42_F9D86282F70E"/>
+														<UML:TaggedValue tag="date_created" value="2020-11-19 09:18:42"/>
+														<UML:TaggedValue tag="date_modified" value="2020-11-19 15:50:15"/>
+														<UML:TaggedValue tag="gentype" value="&lt;none&gt;"/>
+														<UML:TaggedValue tag="tagged" value="0"/>
+														<UML:TaggedValue tag="package_name" value="Requisitos Funcionais"/>
+														<UML:TaggedValue tag="phase" value="1.0"/>
+														<UML:TaggedValue tag="author" value="Olivan"/>
+														<UML:TaggedValue tag="complexity" value="1"/>
+														<UML:TaggedValue tag="status" value="Proposed"/>
+														<UML:TaggedValue tag="stereotype" value="Functional"/>
+														<UML:TaggedValue tag="tpos" value="0"/>
+														<UML:TaggedValue tag="ea_localid" value="15"/>
+														<UML:TaggedValue tag="ea_eleType" value="element"/>
+														<UML:TaggedValue tag="difficulty" value="High"/>
+														<UML:TaggedValue tag="priority" value="Medium"/>
+														<UML:TaggedValue tag="style" value="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+														<UML:TaggedValue tag="$ea_xref_property" value="$XREFPROP=$XID={A97AB572-4E68-479d-83FA-3B4E9B51C461}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=Functional;@ENDSTEREO;$DES;$CLT={D72085B3-0656-464d-A583-D13DAF1A3B23}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
+													</UML:ModelElement.taggedValue>
+												</UML:ClassifierRole>
+												<UML:ClassifierRole name="RF001 - Manter controle de imóveis" xmi.id="EAID_DA6312DB_9B67_4e1d_8793_E6FBE9541715" visibility="public" base="EAID_11111111_5487_4080_A7F4_41526CB0AA00">
+													<UML:ModelElement.stereotype>
+														<UML:Stereotype name="Functional"/>
+													</UML:ModelElement.stereotype>
+													<UML:ModelElement.taggedValue>
+														<UML:TaggedValue tag="documentation" value="&lt;ul&gt;&#xA;	&lt;li&gt;O sistema deve manter controle de imóveis, permitindo registro de imóveis pelo proprietário ou por meio de corretores.&lt;/li&gt;&#xA;	&lt;li&gt;O sistema deve manter as informações de localidade, valor, imagens, vídeos, características do imóveis como: tamanho, localização, bairro, proximidade, mobiliado e demais parâmetros abaixo: &lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;Valor&#xA;Aluguel&#xA;Dormitórios&#xA;Banheiros&#xA;Tipos de Imóvel&#xA;Apartamento&#xA;Kitnet/Studio&#xA;Casa&#xA;Casa de Condomínio&#xA;Disponibilidade: (Tanto faz,Em breve,Imediata)&#xA;Vagas de garagem&#xA;Próximo ao metrô&#xA;Aceita pets?&#xA;Mobiliado?&#xA;Características do imóvel&#xA;Acesso sem degraus&#xA;Apartamento cobertura&#xA;Janelas grandes&#xA;Novos ou reformados&#xA;Rua silenciosa&#xA;Sol da manhã&#xA;Sol da tarde&#xA;Vista livre&#xA;Itens do imóvel&#xA;Ar condicionado&#xA;Banheira&#xA;Banheiro de serviço&#xA;Box de vidro&#xA;Chuveiro a gás&#xA;Chuveiro elétrico&#xA;Cortina corta luz&#xA;Cortina translúcida&#xA;Fechadura eletrônica&#xA;Janela anti-ruído&#xA;Piscina privativa&#xA;Quarto de serviço&#xA;Quarto extra reversível&#xA;Tanque&#xA;Telas nas janelas&#xA;Tomada 3 pinos&#xA;Varal de roupas&#xA;Varanda gourmet&#xA;Ventilador de teto&#xA;Instalações do condomínio&#xA;Academia&#xA;Churrasqueira&#xA;Elevador&#xA;Espaço gourmet na área comum&#xA;Lavanderia no prédio&#xA;Piscina&#xA;Playground&#xA;Portaria 24h&#xA;Quadra esportiva&#xA;Salão de festas&#xA;Sauna&#xA;Mobílias&#xA;Armários na cozinha&#xA;Armários no quarto&#xA;Armários nos banheiros&#xA;Cama de casal&#xA;Cama de solteiro&#xA;Espelho no banheiro&#xA;Mesa e cadeiras&#xA;Sofá&#xA;Televisão&#xA;Utensílios de cozinha&#xA;Eletrodomésticos&#xA;Fogão&#xA;Fogão cooktop&#xA;Geladeira&#xA;Microondas&#xA;"/>
+														<UML:TaggedValue tag="isAbstract" value="false"/>
+														<UML:TaggedValue tag="isSpecification" value="false"/>
+														<UML:TaggedValue tag="ea_stype" value="Requirement"/>
+														<UML:TaggedValue tag="ea_ntype" value="0"/>
+														<UML:TaggedValue tag="version" value="1.0"/>
+														<UML:TaggedValue tag="isActive" value="false"/>
+														<UML:TaggedValue tag="package" value="EAPK_460ABD09_9C9A_4560_9F42_F9D86282F70E"/>
+														<UML:TaggedValue tag="date_created" value="2020-11-18 15:59:26"/>
+														<UML:TaggedValue tag="date_modified" value="2020-11-19 16:23:13"/>
+														<UML:TaggedValue tag="gentype" value="&lt;none&gt;"/>
+														<UML:TaggedValue tag="tagged" value="0"/>
+														<UML:TaggedValue tag="package_name" value="Requisitos Funcionais"/>
+														<UML:TaggedValue tag="phase" value="1.0"/>
+														<UML:TaggedValue tag="author" value="Ronyerison"/>
+														<UML:TaggedValue tag="complexity" value="1"/>
+														<UML:TaggedValue tag="status" value="Proposed"/>
+														<UML:TaggedValue tag="stereotype" value="Functional"/>
+														<UML:TaggedValue tag="tpos" value="0"/>
+														<UML:TaggedValue tag="ea_localid" value="8"/>
+														<UML:TaggedValue tag="ea_eleType" value="element"/>
+														<UML:TaggedValue tag="difficulty" value="High"/>
+														<UML:TaggedValue tag="priority" value="High"/>
+														<UML:TaggedValue tag="style" value="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+														<UML:TaggedValue tag="$ea_xref_property" value="$XREFPROP=$XID={D1406920-4F49-4bde-994A-E219EEC8BB27}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=Functional;GUID={85DBC31B-897E-430f-8F6E-C98883D4D32D};@ENDSTEREO;$DES;$CLT={DA6312DB-9B67-4e1d-8793-E6FBE9541715}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
+													</UML:ModelElement.taggedValue>
+												</UML:ClassifierRole>
+												<UML:ClassifierRole name="RF002 - Manter controle de corretores" xmi.id="EAID_DF5EE649_D996_45c6_8268_CB8A80996B0D" visibility="public" base="EAID_11111111_5487_4080_A7F4_41526CB0AA00">
+													<UML:ModelElement.stereotype>
+														<UML:Stereotype name="Functional"/>
+													</UML:ModelElement.stereotype>
+													<UML:ModelElement.taggedValue>
+														<UML:TaggedValue tag="documentation" value="&lt;ul&gt;&#xA;	&lt;li&gt;O sistema deve manter controle de perfis de usuários corretores de imóveis;&lt;/li&gt;&#xA;	&lt;li&gt;Os corretores poderão registrar imóveis, realizar consultas de imóveis, alterar dados dos imóveis cadastrados&lt;/li&gt;&#xA;	&lt;li&gt;O corretores poderão ter acesso ao BI&lt;/li&gt;&#xA;&lt;/ul&gt;"/>
+														<UML:TaggedValue tag="isAbstract" value="false"/>
+														<UML:TaggedValue tag="isSpecification" value="false"/>
+														<UML:TaggedValue tag="ea_stype" value="Requirement"/>
+														<UML:TaggedValue tag="ea_ntype" value="0"/>
+														<UML:TaggedValue tag="version" value="1.0"/>
+														<UML:TaggedValue tag="isActive" value="false"/>
+														<UML:TaggedValue tag="package" value="EAPK_460ABD09_9C9A_4560_9F42_F9D86282F70E"/>
+														<UML:TaggedValue tag="date_created" value="2020-11-18 16:02:39"/>
+														<UML:TaggedValue tag="date_modified" value="2020-11-19 16:00:24"/>
+														<UML:TaggedValue tag="gentype" value="&lt;none&gt;"/>
+														<UML:TaggedValue tag="tagged" value="0"/>
+														<UML:TaggedValue tag="package_name" value="Requisitos Funcionais"/>
+														<UML:TaggedValue tag="phase" value="1.0"/>
+														<UML:TaggedValue tag="author" value="Olivan"/>
+														<UML:TaggedValue tag="complexity" value="1"/>
+														<UML:TaggedValue tag="status" value="Proposed"/>
+														<UML:TaggedValue tag="stereotype" value="Functional"/>
+														<UML:TaggedValue tag="tpos" value="0"/>
+														<UML:TaggedValue tag="ea_localid" value="9"/>
+														<UML:TaggedValue tag="ea_eleType" value="element"/>
+														<UML:TaggedValue tag="difficulty" value="High"/>
+														<UML:TaggedValue tag="priority" value="High"/>
+														<UML:TaggedValue tag="style" value="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+														<UML:TaggedValue tag="$ea_xref_property" value="$XREFPROP=$XID={83774114-0B28-4c9a-AEE5-17ABB16744AC}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=Functional;@ENDSTEREO;$DES;$CLT={DF5EE649-D996-45c6-8268-CB8A80996B0D}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
+													</UML:ModelElement.taggedValue>
+												</UML:ClassifierRole>
+											</UML:Namespace.ownedElement>
+											<UML:Collaboration.interaction/>
+										</UML:Collaboration>
+									</UML:Namespace.ownedElement>
+								</UML:Package>
+								<UML:Package name="Regras de Negócio" xmi.id="EAPK_A046966F_7B5D_418a_9048_E821291ACDFD" isRoot="false" isLeaf="false" isAbstract="false" visibility="public">
+									<UML:ModelElement.taggedValue>
+										<UML:TaggedValue tag="parent" value="EAPK_94A1381A_7529_4be2_92F7_40995115F868"/>
+										<UML:TaggedValue tag="created" value="2020-11-18 15:58:48"/>
+										<UML:TaggedValue tag="modified" value="2020-11-18 15:58:48"/>
+										<UML:TaggedValue tag="iscontrolled" value="FALSE"/>
+										<UML:TaggedValue tag="version" value="1.0"/>
+										<UML:TaggedValue tag="isprotected" value="FALSE"/>
+										<UML:TaggedValue tag="usedtd" value="FALSE"/>
+										<UML:TaggedValue tag="logxml" value="FALSE"/>
+										<UML:TaggedValue tag="tpos" value="2"/>
+										<UML:TaggedValue tag="phase" value="1.0"/>
+										<UML:TaggedValue tag="status" value="Proposed"/>
+										<UML:TaggedValue tag="author" value="Olivan"/>
+										<UML:TaggedValue tag="complexity" value="1"/>
+										<UML:TaggedValue tag="ea_stype" value="Public"/>
+									</UML:ModelElement.taggedValue>
+									<UML:Namespace.ownedElement/>
+								</UML:Package>
+							</UML:Namespace.ownedElement>
+						</UML:Package>
+						<UML:Package name="Use Case View" xmi.id="EAPK_D7766412_1ADA_40df_945C_D49931FDB405" isRoot="false" isLeaf="false" isAbstract="false" visibility="public">
+							<UML:ModelElement.taggedValue>
+								<UML:TaggedValue tag="parent" value="EAPK_21AA9CDB_3D9F_49cc_B5FD_3AECA186B719"/>
+								<UML:TaggedValue tag="created" value="2020-11-18 15:56:16"/>
+								<UML:TaggedValue tag="modified" value="2020-11-18 15:56:16"/>
+								<UML:TaggedValue tag="iscontrolled" value="FALSE"/>
+								<UML:TaggedValue tag="lastloaddate" value="2020-11-18 15:56:16"/>
+								<UML:TaggedValue tag="lastsavedate" value="2020-11-18 15:56:16"/>
+								<UML:TaggedValue tag="isprotected" value="FALSE"/>
+								<UML:TaggedValue tag="usedtd" value="FALSE"/>
+								<UML:TaggedValue tag="logxml" value="FALSE"/>
+								<UML:TaggedValue tag="tpos" value="2"/>
+								<UML:TaggedValue tag="batchsave" value="0"/>
+								<UML:TaggedValue tag="batchload" value="0"/>
+								<UML:TaggedValue tag="packageFlags" value="isModel=1;VICON=1;"/>
+								<UML:TaggedValue tag="phase" value="1.0"/>
+								<UML:TaggedValue tag="status" value="Proposed"/>
+								<UML:TaggedValue tag="author" value="Olivan"/>
+								<UML:TaggedValue tag="complexity" value="1"/>
+								<UML:TaggedValue tag="ea_stype" value="Public"/>
+							</UML:ModelElement.taggedValue>
+							<UML:Namespace.ownedElement>
+								<UML:UseCase name="Manter anúncios de imóveis" xmi.id="EAID_1471C59C_CE08_4eec_832C_A765B442785E" visibility="public" namespace="EAPK_D7766412_1ADA_40df_945C_D49931FDB405" isRoot="false" isLeaf="false" isAbstract="false">
+									<UML:ModelElement.taggedValue>
+										<UML:TaggedValue tag="isSpecification" value="false"/>
+										<UML:TaggedValue tag="ea_stype" value="UseCase"/>
+										<UML:TaggedValue tag="ea_ntype" value="0"/>
+										<UML:TaggedValue tag="version" value="1.0"/>
+										<UML:TaggedValue tag="isActive" value="false"/>
+										<UML:TaggedValue tag="package" value="EAPK_D7766412_1ADA_40df_945C_D49931FDB405"/>
+										<UML:TaggedValue tag="date_created" value="2020-11-19 16:07:02"/>
+										<UML:TaggedValue tag="date_modified" value="2020-11-19 16:07:11"/>
+										<UML:TaggedValue tag="gentype" value="&lt;none&gt;"/>
+										<UML:TaggedValue tag="tagged" value="0"/>
+										<UML:TaggedValue tag="package_name" value="Use Case View"/>
+										<UML:TaggedValue tag="phase" value="1.0"/>
+										<UML:TaggedValue tag="author" value="Karolliny Lima"/>
+										<UML:TaggedValue tag="complexity" value="1"/>
+										<UML:TaggedValue tag="status" value="Proposed"/>
+										<UML:TaggedValue tag="tpos" value="0"/>
+										<UML:TaggedValue tag="ea_localid" value="34"/>
+										<UML:TaggedValue tag="ea_eleType" value="element"/>
+										<UML:TaggedValue tag="style" value="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+									</UML:ModelElement.taggedValue>
+								</UML:UseCase>
+								<UML:UseCase name="Manter controle de notificações" xmi.id="EAID_31229E5C_8749_47b3_8935_8B1B4049FFA1" visibility="public" namespace="EAPK_D7766412_1ADA_40df_945C_D49931FDB405" isRoot="false" isLeaf="false" isAbstract="false">
+									<UML:ModelElement.taggedValue>
+										<UML:TaggedValue tag="isSpecification" value="false"/>
+										<UML:TaggedValue tag="ea_stype" value="UseCase"/>
+										<UML:TaggedValue tag="ea_ntype" value="0"/>
+										<UML:TaggedValue tag="version" value="1.0"/>
+										<UML:TaggedValue tag="isActive" value="false"/>
+										<UML:TaggedValue tag="package" value="EAPK_D7766412_1ADA_40df_945C_D49931FDB405"/>
+										<UML:TaggedValue tag="date_created" value="2020-11-19 16:07:20"/>
+										<UML:TaggedValue tag="date_modified" value="2020-11-19 16:07:29"/>
+										<UML:TaggedValue tag="gentype" value="&lt;none&gt;"/>
+										<UML:TaggedValue tag="tagged" value="0"/>
+										<UML:TaggedValue tag="package_name" value="Use Case View"/>
+										<UML:TaggedValue tag="phase" value="1.0"/>
+										<UML:TaggedValue tag="author" value="Karolliny Lima"/>
+										<UML:TaggedValue tag="complexity" value="1"/>
+										<UML:TaggedValue tag="status" value="Proposed"/>
+										<UML:TaggedValue tag="tpos" value="0"/>
+										<UML:TaggedValue tag="ea_localid" value="35"/>
+										<UML:TaggedValue tag="ea_eleType" value="element"/>
+										<UML:TaggedValue tag="style" value="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+									</UML:ModelElement.taggedValue>
+								</UML:UseCase>
+								<UML:UseCase name="Manter Imóveis" xmi.id="EAID_33636B20_7B55_4beb_ACED_A4834659CAA3" visibility="public" namespace="EAPK_D7766412_1ADA_40df_945C_D49931FDB405" isRoot="false" isLeaf="false" isAbstract="false">
+									<UML:ModelElement.taggedValue>
+										<UML:TaggedValue tag="isSpecification" value="false"/>
+										<UML:TaggedValue tag="ea_stype" value="UseCase"/>
+										<UML:TaggedValue tag="ea_ntype" value="0"/>
+										<UML:TaggedValue tag="version" value="1.0"/>
+										<UML:TaggedValue tag="isActive" value="false"/>
+										<UML:TaggedValue tag="package" value="EAPK_D7766412_1ADA_40df_945C_D49931FDB405"/>
+										<UML:TaggedValue tag="date_created" value="2020-11-19 16:03:53"/>
+										<UML:TaggedValue tag="date_modified" value="2020-11-19 16:04:42"/>
+										<UML:TaggedValue tag="gentype" value="&lt;none&gt;"/>
+										<UML:TaggedValue tag="tagged" value="0"/>
+										<UML:TaggedValue tag="package_name" value="Use Case View"/>
+										<UML:TaggedValue tag="phase" value="1.0"/>
+										<UML:TaggedValue tag="author" value="Karolliny Lima"/>
+										<UML:TaggedValue tag="complexity" value="1"/>
+										<UML:TaggedValue tag="status" value="Proposed"/>
+										<UML:TaggedValue tag="tpos" value="0"/>
+										<UML:TaggedValue tag="ea_localid" value="29"/>
+										<UML:TaggedValue tag="ea_eleType" value="element"/>
+										<UML:TaggedValue tag="style" value="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+									</UML:ModelElement.taggedValue>
+								</UML:UseCase>
+								<UML:Actor name="Proprierário" xmi.id="EAID_639D8899_F1B1_44e3_8E64_CE4DC65B7F05" visibility="public" namespace="EAPK_D7766412_1ADA_40df_945C_D49931FDB405" isRoot="false" isLeaf="false" isAbstract="false">
+									<UML:ModelElement.taggedValue>
+										<UML:TaggedValue tag="isSpecification" value="false"/>
+										<UML:TaggedValue tag="ea_stype" value="Actor"/>
+										<UML:TaggedValue tag="ea_ntype" value="0"/>
+										<UML:TaggedValue tag="version" value="1.0"/>
+										<UML:TaggedValue tag="isActive" value="false"/>
+										<UML:TaggedValue tag="package" value="EAPK_D7766412_1ADA_40df_945C_D49931FDB405"/>
+										<UML:TaggedValue tag="date_created" value="2020-11-19 16:02:48"/>
+										<UML:TaggedValue tag="date_modified" value="2020-11-19 16:03:05"/>
+										<UML:TaggedValue tag="gentype" value="&lt;none&gt;"/>
+										<UML:TaggedValue tag="tagged" value="0"/>
+										<UML:TaggedValue tag="package_name" value="Use Case View"/>
+										<UML:TaggedValue tag="phase" value="1.0"/>
+										<UML:TaggedValue tag="author" value="Karolliny Lima"/>
+										<UML:TaggedValue tag="complexity" value="1"/>
+										<UML:TaggedValue tag="status" value="Proposed"/>
+										<UML:TaggedValue tag="tpos" value="0"/>
+										<UML:TaggedValue tag="ea_localid" value="26"/>
+										<UML:TaggedValue tag="ea_eleType" value="element"/>
+										<UML:TaggedValue tag="style" value="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+									</UML:ModelElement.taggedValue>
+								</UML:Actor>
+								<UML:UseCase name="Manter Aluguéis" xmi.id="EAID_762FE47F_992D_464e_9225_6841F4245836" visibility="public" namespace="EAPK_D7766412_1ADA_40df_945C_D49931FDB405" isRoot="false" isLeaf="false" isAbstract="false">
+									<UML:ModelElement.taggedValue>
+										<UML:TaggedValue tag="isSpecification" value="false"/>
+										<UML:TaggedValue tag="ea_stype" value="UseCase"/>
+										<UML:TaggedValue tag="ea_ntype" value="0"/>
+										<UML:TaggedValue tag="version" value="1.0"/>
+										<UML:TaggedValue tag="isActive" value="false"/>
+										<UML:TaggedValue tag="package" value="EAPK_D7766412_1ADA_40df_945C_D49931FDB405"/>
+										<UML:TaggedValue tag="date_created" value="2020-11-19 16:06:17"/>
+										<UML:TaggedValue tag="date_modified" value="2020-11-19 16:06:41"/>
+										<UML:TaggedValue tag="gentype" value="&lt;none&gt;"/>
+										<UML:TaggedValue tag="tagged" value="0"/>
+										<UML:TaggedValue tag="package_name" value="Use Case View"/>
+										<UML:TaggedValue tag="phase" value="1.0"/>
+										<UML:TaggedValue tag="author" value="Karolliny Lima"/>
+										<UML:TaggedValue tag="complexity" value="1"/>
+										<UML:TaggedValue tag="status" value="Proposed"/>
+										<UML:TaggedValue tag="tpos" value="0"/>
+										<UML:TaggedValue tag="ea_localid" value="32"/>
+										<UML:TaggedValue tag="ea_eleType" value="element"/>
+										<UML:TaggedValue tag="style" value="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+									</UML:ModelElement.taggedValue>
+								</UML:UseCase>
+								<UML:UseCase name="Manter compra de imóveis" xmi.id="EAID_A25AB99A_B54E_4bb8_9267_730F12BE82C3" visibility="public" namespace="EAPK_D7766412_1ADA_40df_945C_D49931FDB405" isRoot="false" isLeaf="false" isAbstract="false">
+									<UML:ModelElement.taggedValue>
+										<UML:TaggedValue tag="isSpecification" value="false"/>
+										<UML:TaggedValue tag="ea_stype" value="UseCase"/>
+										<UML:TaggedValue tag="ea_ntype" value="0"/>
+										<UML:TaggedValue tag="version" value="1.0"/>
+										<UML:TaggedValue tag="isActive" value="false"/>
+										<UML:TaggedValue tag="package" value="EAPK_D7766412_1ADA_40df_945C_D49931FDB405"/>
+										<UML:TaggedValue tag="date_created" value="2020-11-19 16:06:47"/>
+										<UML:TaggedValue tag="date_modified" value="2020-11-19 16:06:56"/>
+										<UML:TaggedValue tag="gentype" value="&lt;none&gt;"/>
+										<UML:TaggedValue tag="tagged" value="0"/>
+										<UML:TaggedValue tag="package_name" value="Use Case View"/>
+										<UML:TaggedValue tag="phase" value="1.0"/>
+										<UML:TaggedValue tag="author" value="Karolliny Lima"/>
+										<UML:TaggedValue tag="complexity" value="1"/>
+										<UML:TaggedValue tag="status" value="Proposed"/>
+										<UML:TaggedValue tag="tpos" value="0"/>
+										<UML:TaggedValue tag="ea_localid" value="33"/>
+										<UML:TaggedValue tag="ea_eleType" value="element"/>
+										<UML:TaggedValue tag="style" value="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+									</UML:ModelElement.taggedValue>
+								</UML:UseCase>
+								<UML:Actor name="Corretor" xmi.id="EAID_B62F4983_3795_4ebd_9D5B_D1E34FD9D41E" visibility="public" namespace="EAPK_D7766412_1ADA_40df_945C_D49931FDB405" isRoot="false" isLeaf="false" isAbstract="false">
+									<UML:ModelElement.taggedValue>
+										<UML:TaggedValue tag="isSpecification" value="false"/>
+										<UML:TaggedValue tag="ea_stype" value="Actor"/>
+										<UML:TaggedValue tag="ea_ntype" value="0"/>
+										<UML:TaggedValue tag="version" value="1.0"/>
+										<UML:TaggedValue tag="isActive" value="false"/>
+										<UML:TaggedValue tag="package" value="EAPK_D7766412_1ADA_40df_945C_D49931FDB405"/>
+										<UML:TaggedValue tag="date_created" value="2020-11-19 16:03:14"/>
+										<UML:TaggedValue tag="date_modified" value="2020-11-19 16:03:21"/>
+										<UML:TaggedValue tag="gentype" value="&lt;none&gt;"/>
+										<UML:TaggedValue tag="tagged" value="0"/>
+										<UML:TaggedValue tag="package_name" value="Use Case View"/>
+										<UML:TaggedValue tag="phase" value="1.0"/>
+										<UML:TaggedValue tag="author" value="Karolliny Lima"/>
+										<UML:TaggedValue tag="complexity" value="1"/>
+										<UML:TaggedValue tag="status" value="Proposed"/>
+										<UML:TaggedValue tag="tpos" value="0"/>
+										<UML:TaggedValue tag="ea_localid" value="27"/>
+										<UML:TaggedValue tag="ea_eleType" value="element"/>
+										<UML:TaggedValue tag="style" value="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+									</UML:ModelElement.taggedValue>
+								</UML:Actor>
+								<UML:UseCase name="Manter Proprietários" xmi.id="EAID_BEE39402_925A_48b4_BDC6_FF5B39A895F8" visibility="public" namespace="EAPK_D7766412_1ADA_40df_945C_D49931FDB405" isRoot="false" isLeaf="false" isAbstract="false">
+									<UML:ModelElement.taggedValue>
+										<UML:TaggedValue tag="isSpecification" value="false"/>
+										<UML:TaggedValue tag="ea_stype" value="UseCase"/>
+										<UML:TaggedValue tag="ea_ntype" value="0"/>
+										<UML:TaggedValue tag="version" value="1.0"/>
+										<UML:TaggedValue tag="isActive" value="false"/>
+										<UML:TaggedValue tag="package" value="EAPK_D7766412_1ADA_40df_945C_D49931FDB405"/>
+										<UML:TaggedValue tag="date_created" value="2020-11-19 16:05:56"/>
+										<UML:TaggedValue tag="date_modified" value="2020-11-19 16:06:10"/>
+										<UML:TaggedValue tag="gentype" value="&lt;none&gt;"/>
+										<UML:TaggedValue tag="tagged" value="0"/>
+										<UML:TaggedValue tag="package_name" value="Use Case View"/>
+										<UML:TaggedValue tag="phase" value="1.0"/>
+										<UML:TaggedValue tag="author" value="Karolliny Lima"/>
+										<UML:TaggedValue tag="complexity" value="1"/>
+										<UML:TaggedValue tag="status" value="Proposed"/>
+										<UML:TaggedValue tag="tpos" value="0"/>
+										<UML:TaggedValue tag="ea_localid" value="31"/>
+										<UML:TaggedValue tag="ea_eleType" value="element"/>
+										<UML:TaggedValue tag="style" value="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+									</UML:ModelElement.taggedValue>
+								</UML:UseCase>
+								<UML:UseCase name="Manter Corretores" xmi.id="EAID_C4FAEEE2_0915_4638_9B34_DB5795E5761F" visibility="public" namespace="EAPK_D7766412_1ADA_40df_945C_D49931FDB405" isRoot="false" isLeaf="false" isAbstract="false">
+									<UML:ModelElement.taggedValue>
+										<UML:TaggedValue tag="isSpecification" value="false"/>
+										<UML:TaggedValue tag="ea_stype" value="UseCase"/>
+										<UML:TaggedValue tag="ea_ntype" value="0"/>
+										<UML:TaggedValue tag="version" value="1.0"/>
+										<UML:TaggedValue tag="isActive" value="false"/>
+										<UML:TaggedValue tag="package" value="EAPK_D7766412_1ADA_40df_945C_D49931FDB405"/>
+										<UML:TaggedValue tag="date_created" value="2020-11-19 16:05:26"/>
+										<UML:TaggedValue tag="date_modified" value="2020-11-19 16:05:49"/>
+										<UML:TaggedValue tag="gentype" value="&lt;none&gt;"/>
+										<UML:TaggedValue tag="tagged" value="0"/>
+										<UML:TaggedValue tag="package_name" value="Use Case View"/>
+										<UML:TaggedValue tag="phase" value="1.0"/>
+										<UML:TaggedValue tag="author" value="Karolliny Lima"/>
+										<UML:TaggedValue tag="complexity" value="1"/>
+										<UML:TaggedValue tag="status" value="Proposed"/>
+										<UML:TaggedValue tag="tpos" value="0"/>
+										<UML:TaggedValue tag="ea_localid" value="30"/>
+										<UML:TaggedValue tag="ea_eleType" value="element"/>
+										<UML:TaggedValue tag="style" value="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+									</UML:ModelElement.taggedValue>
+								</UML:UseCase>
+								<UML:Actor name="Locatário" xmi.id="EAID_CD027E1E_523C_4b55_BFBA_D9CEE1C21F87" visibility="public" namespace="EAPK_D7766412_1ADA_40df_945C_D49931FDB405" isRoot="false" isLeaf="false" isAbstract="false">
+									<UML:ModelElement.taggedValue>
+										<UML:TaggedValue tag="isSpecification" value="false"/>
+										<UML:TaggedValue tag="ea_stype" value="Actor"/>
+										<UML:TaggedValue tag="ea_ntype" value="0"/>
+										<UML:TaggedValue tag="version" value="1.0"/>
+										<UML:TaggedValue tag="isActive" value="false"/>
+										<UML:TaggedValue tag="package" value="EAPK_D7766412_1ADA_40df_945C_D49931FDB405"/>
+										<UML:TaggedValue tag="date_created" value="2020-11-19 16:03:30"/>
+										<UML:TaggedValue tag="date_modified" value="2020-11-19 16:03:42"/>
+										<UML:TaggedValue tag="gentype" value="&lt;none&gt;"/>
+										<UML:TaggedValue tag="tagged" value="0"/>
+										<UML:TaggedValue tag="package_name" value="Use Case View"/>
+										<UML:TaggedValue tag="phase" value="1.0"/>
+										<UML:TaggedValue tag="author" value="Karolliny Lima"/>
+										<UML:TaggedValue tag="complexity" value="1"/>
+										<UML:TaggedValue tag="status" value="Proposed"/>
+										<UML:TaggedValue tag="tpos" value="0"/>
+										<UML:TaggedValue tag="ea_localid" value="28"/>
+										<UML:TaggedValue tag="ea_eleType" value="element"/>
+										<UML:TaggedValue tag="style" value="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+									</UML:ModelElement.taggedValue>
+								</UML:Actor>
+							</UML:Namespace.ownedElement>
+						</UML:Package>
+						<UML:Package name="Webpage Wireframe" xmi.id="EAPK_39D5D22D_0F58_4efc_8501_B82725F65402" isRoot="false" isLeaf="false" isAbstract="false" visibility="public">
+							<UML:ModelElement.taggedValue>
+								<UML:TaggedValue tag="parent" value="EAPK_21AA9CDB_3D9F_49cc_B5FD_3AECA186B719"/>
+								<UML:TaggedValue tag="created" value="2020-11-18 15:55:17"/>
+								<UML:TaggedValue tag="modified" value="2014-07-18 11:52:54"/>
+								<UML:TaggedValue tag="iscontrolled" value="FALSE"/>
+								<UML:TaggedValue tag="lastloaddate" value="2020-11-18 15:55:17"/>
+								<UML:TaggedValue tag="lastsavedate" value="2020-11-18 15:55:17"/>
+								<UML:TaggedValue tag="version" value="1.0"/>
+								<UML:TaggedValue tag="isprotected" value="FALSE"/>
+								<UML:TaggedValue tag="usedtd" value="FALSE"/>
+								<UML:TaggedValue tag="logxml" value="FALSE"/>
+								<UML:TaggedValue tag="tpos" value="3"/>
+								<UML:TaggedValue tag="batchsave" value="0"/>
+								<UML:TaggedValue tag="batchload" value="0"/>
+								<UML:TaggedValue tag="phase" value="1.0"/>
+								<UML:TaggedValue tag="status" value="Proposed"/>
+								<UML:TaggedValue tag="author" value="Olivan"/>
+								<UML:TaggedValue tag="complexity" value="1"/>
+								<UML:TaggedValue tag="ea_stype" value="Public"/>
+							</UML:ModelElement.taggedValue>
+							<UML:Namespace.ownedElement>
+								<UML:Collaboration xmi.id="EAID_39D5D22D_0F58_4efc_8501_B82725F65402_Collaboration" name="Collaborations">
+									<UML:Namespace.ownedElement>
+										<UML:ClassifierRole name="Firefox" xmi.id="EAID_9202AAB0_04C2_4f32_9CD0_8640236E2A80" visibility="public" base="EAID_11111111_5487_4080_A7F4_41526CB0AA00">
+											<UML:ModelElement.stereotype>
+												<UML:Stereotype name="WireframeFirefox"/>
+											</UML:ModelElement.stereotype>
+											<UML:ModelElement.taggedValue>
+												<UML:TaggedValue tag="isAbstract" value="false"/>
+												<UML:TaggedValue tag="isSpecification" value="false"/>
+												<UML:TaggedValue tag="ea_stype" value="Screen"/>
+												<UML:TaggedValue tag="ea_ntype" value="0"/>
+												<UML:TaggedValue tag="version" value="1.0"/>
+												<UML:TaggedValue tag="isActive" value="false"/>
+												<UML:TaggedValue tag="package" value="EAPK_39D5D22D_0F58_4efc_8501_B82725F65402"/>
+												<UML:TaggedValue tag="date_created" value="2020-11-18 15:55:17"/>
+												<UML:TaggedValue tag="date_modified" value="2020-11-18 15:55:17"/>
+												<UML:TaggedValue tag="gentype" value="&lt;none&gt;"/>
+												<UML:TaggedValue tag="tagged" value="0"/>
+												<UML:TaggedValue tag="package_name" value="Webpage Wireframe"/>
+												<UML:TaggedValue tag="phase" value="1.0"/>
+												<UML:TaggedValue tag="author" value="Olivan"/>
+												<UML:TaggedValue tag="complexity" value="1"/>
+												<UML:TaggedValue tag="status" value="Proposed"/>
+												<UML:TaggedValue tag="stereotype" value="WireframeFirefox"/>
+												<UML:TaggedValue tag="tpos" value="0"/>
+												<UML:TaggedValue tag="ea_localid" value="3"/>
+												<UML:TaggedValue tag="ea_eleType" value="element"/>
+												<UML:TaggedValue tag="style" value="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+												<UML:TaggedValue tag="$ea_xref_property" value="$XREFPROP=$XID={502E1F64-847A-44d5-96FF-AE5C38617BB5}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=WireframeFirefox;FQName=Wireframing::WireframeFirefox;@ENDSTEREO;$DES;$CLT={9202AAB0-04C2-4f32-9CD0-8640236E2A80}$CLT;$ENDXREF;"/>
+											</UML:ModelElement.taggedValue>
+										</UML:ClassifierRole>
+										<UML:ClassifierRole name="Under Construction" xmi.id="EAID_BD31CE8F_E68F_4695_8D80_2CEBE41C376E" visibility="public" base="EAID_11111111_5487_4080_A7F4_41526CB0AA00">
+											<UML:ModelElement.stereotype>
+												<UML:Stereotype name="WireframeHeader"/>
+											</UML:ModelElement.stereotype>
+											<UML:ModelElement.taggedValue>
+												<UML:TaggedValue tag="isAbstract" value="false"/>
+												<UML:TaggedValue tag="isSpecification" value="false"/>
+												<UML:TaggedValue tag="ea_stype" value="GUIElement"/>
+												<UML:TaggedValue tag="ea_ntype" value="0"/>
+												<UML:TaggedValue tag="version" value="1.0"/>
+												<UML:TaggedValue tag="isActive" value="false"/>
+												<UML:TaggedValue tag="package" value="EAPK_39D5D22D_0F58_4efc_8501_B82725F65402"/>
+												<UML:TaggedValue tag="owner" value="EAID_9202AAB0_04C2_4f32_9CD0_8640236E2A80"/>
+												<UML:TaggedValue tag="date_created" value="2020-11-18 15:55:17"/>
+												<UML:TaggedValue tag="date_modified" value="2020-11-18 15:55:17"/>
+												<UML:TaggedValue tag="gentype" value="&lt;none&gt;"/>
+												<UML:TaggedValue tag="tagged" value="0"/>
+												<UML:TaggedValue tag="package_name" value="Webpage Wireframe"/>
+												<UML:TaggedValue tag="phase" value="1.0"/>
+												<UML:TaggedValue tag="author" value="Olivan"/>
+												<UML:TaggedValue tag="complexity" value="1"/>
+												<UML:TaggedValue tag="status" value="Proposed"/>
+												<UML:TaggedValue tag="stereotype" value="WireframeHeader"/>
+												<UML:TaggedValue tag="tpos" value="0"/>
+												<UML:TaggedValue tag="ea_localid" value="2"/>
+												<UML:TaggedValue tag="ea_eleType" value="element"/>
+												<UML:TaggedValue tag="style" value="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+												<UML:TaggedValue tag="$ea_xref_property" value="$XREFPROP=$XID={59BB7BDE-B2FC-45e3-B1AE-01BC6FC7B62F}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=WireframeHeader;FQName=Wireframing::WireframeHeader;@ENDSTEREO;$DES;$CLT={BD31CE8F-E68F-4695-8D80-2CEBE41C376E}$CLT;$ENDXREF;"/>
+											</UML:ModelElement.taggedValue>
+										</UML:ClassifierRole>
+									</UML:Namespace.ownedElement>
+									<UML:Collaboration.interaction/>
+								</UML:Collaboration>
+							</UML:Namespace.ownedElement>
+						</UML:Package>
+					</UML:Namespace.ownedElement>
+				</UML:Package>
+			</UML:Namespace.ownedElement>
+		</UML:Model>
+		<UML:Diagram name="Requisitos Funcionais" xmi.id="EAID_EDF4FF3C_7B76_4508_8DBA_6B666615566D" diagramType="CustomDiagram" owner="EAPK_460ABD09_9C9A_4560_9F42_F9D86282F70E" toolName="Enterprise Architect 2.5">
+			<UML:ModelElement.taggedValue>
+				<UML:TaggedValue tag="version" value="1.0"/>
+				<UML:TaggedValue tag="author" value="Olivan"/>
+				<UML:TaggedValue tag="created_date" value="2020-11-18 15:57:51"/>
+				<UML:TaggedValue tag="modified_date" value="2020-11-19 16:36:20"/>
+				<UML:TaggedValue tag="package" value="EAPK_460ABD09_9C9A_4560_9F42_F9D86282F70E"/>
+				<UML:TaggedValue tag="type" value="Custom"/>
+				<UML:TaggedValue tag="swimlanes" value="locked=false;orientation=0;width=0;inbar=false;names=false;color=-1;bold=false;fcol=0;tcol=-1;ofCol=-1;hl=1;cls=0;SwimlaneFont=lfh:-13,lfw:0,lfi:0,lfu:0,lfs:0,lfface:ARIAL,lfe:0,lfo:0,lfchar:1,lfop:0,lfcp:0,lfq:0,lfpf=0,lfWidth=0;"/>
+				<UML:TaggedValue tag="matrixitems" value="locked=false;matrixactive=false;swimlanesactive=true;kanbanactive=false;width=1;clrLine=0;"/>
+				<UML:TaggedValue tag="ea_localid" value="4"/>
+				<UML:TaggedValue tag="EAStyle" value="ShowPrivate=1;ShowProtected=1;ShowPublic=1;HideRelationships=0;Locked=0;Border=1;HighlightForeign=1;PackageContents=1;SequenceNotes=0;ScalePrintImage=0;PPgs.cx=1;PPgs.cy=1;DocSize.cx=795;DocSize.cy=1134;ShowDetails=0;Orientation=P;Zoom=100;ShowTags=0;OpParams=1;VisibleAttributeDetail=0;ShowOpRetType=1;ShowIcons=1;CollabNums=0;HideProps=0;ShowReqs=0;ShowCons=0;PaperSize=9;HideParents=0;UseAlias=0;HideAtts=0;HideOps=0;HideStereo=0;HideElemStereo=0;ShowTests=0;ShowMaint=0;ConnectorNotation=UML 2.1;ExplicitNavigability=0;AdvancedElementProps=1;AdvancedFeatureProps=1;AdvancedConnectorProps=1;ShowNotes=0;SuppressBrackets=0;SuppConnectorLabels=0;PrintPageHeadFoot=0;ShowAsList=0;"/>
+				<UML:TaggedValue tag="styleex" value="SaveTag=2F16C3AB;ExcludeRTF=0;DocAll=0;HideQuals=0;AttPkg=1;ShowTests=0;ShowMaint=0;SuppressFOC=1;MatrixActive=0;SwimlanesActive=1;KanbanActive=0;MatrixLineWidth=1;MatrixLineClr=0;MatrixLocked=0;TConnectorNotation=UML 2.1;TExplicitNavigability=0;AdvancedElementProps=1;AdvancedFeatureProps=1;AdvancedConnectorProps=1;ProfileData=;MDGDgm=Extended::Requirements;STBLDgm=;ShowNotes=0;VisibleAttributeDetail=0;ShowOpRetType=1;SuppressBrackets=0;SuppConnectorLabels=0;PrintPageHeadFoot=0;ShowAsList=0;SuppressedCompartments=;"/>
+			</UML:ModelElement.taggedValue>
+			<UML:Diagram.element>
+				<UML:DiagramElement geometry="Left=66;Top=470;Right=195;Bottom=516;" subject="EAID_B73130E3_F7A1_4421_96D5_3CA1FA695CA6" seqno="1" style="DUID=9CC1985D;"/>
+				<UML:DiagramElement geometry="Left=60;Top=251;Right=170;Bottom=293;" subject="EAID_C796CEE8_DC23_493e_A136_AF5475B627BD" seqno="2" style="DUID=B9575421;NSL=0;BCol=-1;BFol=-1;LCol=-1;LWth=-1;fontsz=0;bold=0;black=0;italic=0;ul=0;charset=0;pitch=0;"/>
+				<UML:DiagramElement geometry="Left=339;Top=465;Right=449;Bottom=511;" subject="EAID_53E47416_0092_4fec_8151_961375839605" seqno="3" style="DUID=6BADA7ED;"/>
+				<UML:DiagramElement geometry="Left=339;Top=393;Right=449;Bottom=439;" subject="EAID_01DA132C_1443_432b_978C_65E4386E0E09" seqno="4" style="DUID=FA3BF9A0;"/>
+				<UML:DiagramElement geometry="Left=597;Top=77;Right=707;Bottom=121;" subject="EAID_02F071FA_9EAF_4737_BF56_6F5048775497" seqno="5" style="DUID=44863D6B;"/>
+				<UML:DiagramElement geometry="Left=74;Top=399;Right=184;Bottom=445;" subject="EAID_B80E243D_0D0F_4600_BFF9_F7BF7E79F314" seqno="6" style="DUID=78D9F284;"/>
+				<UML:DiagramElement geometry="Left=310;Top=217;Right=420;Bottom=289;" subject="EAID_C5190C7E_C1A5_4926_BCC5_1C3FE8150437" seqno="7" style="DUID=906A87EB;"/>
+				<UML:DiagramElement geometry="Left=308;Top=130;Right=418;Bottom=202;" subject="EAID_D316D2FB_5B90_4e3e_B634_FA4B7848C032" seqno="8" style="DUID=F8ED7C3C;"/>
+				<UML:DiagramElement geometry="Left=308;Top=71;Right=418;Bottom=117;" subject="EAID_D72085B3_0656_464d_A583_D13DAF1A3B23" seqno="9" style="DUID=59A72440;"/>
+				<UML:DiagramElement geometry="Left=58;Top=186;Right=168;Bottom=232;" subject="EAID_91A1B005_630E_47a6_8CCD_19EE0726C3D4" seqno="10" style="DUID=B9CFA89F;"/>
+				<UML:DiagramElement geometry="Left=60;Top=119;Right=170;Bottom=165;" subject="EAID_DF5EE649_D996_45c6_8268_CB8A80996B0D" seqno="11" style="DUID=06CFE3BC;"/>
+				<UML:DiagramElement geometry="Left=58;Top=58;Right=168;Bottom=104;" subject="EAID_DA6312DB_9B67_4e1d_8793_E6FBE9541715" seqno="12" style="DUID=DF4527EB;"/>
+				<UML:DiagramElement geometry="Left=20;Top=21;Right=247;Bottom=331;" subject="EAID_CD821ABC_E902_464f_9FE9_D4D0087C5DB2" seqno="13" style="DUID=4E20817C;"/>
+				<UML:DiagramElement geometry="Left=270;Top=23;Right=518;Bottom=328;" subject="EAID_677DC77E_122A_46e5_9EF5_7E5F4531E6A3" seqno="14" style="DUID=0C28FD1B;"/>
+				<UML:DiagramElement geometry="Left=539;Top=26;Right=769;Bottom=326;" subject="EAID_01BFC7B4_70B0_43b7_82EB_0A933A90214A" seqno="15" style="DUID=35057A62;"/>
+				<UML:DiagramElement geometry="Left=278;Top=359;Right=516;Bottom=696;" subject="EAID_260CB665_6B35_4324_8E43_00B90CB4DF02" seqno="16" style="DUID=1CA298ED;"/>
+				<UML:DiagramElement geometry="Left=19;Top=357;Right=251;Bottom=679;" subject="EAID_151880FA_D3D0_421c_B8F6_C04F31EA7CE7" seqno="17" style="DUID=5E25479A;"/>
+			</UML:Diagram.element>
+		</UML:Diagram>
+		<UML:Diagram name="Use Case View" xmi.id="EAID_43D94A96_7892_4ae1_8E1E_E225DD2A4860" diagramType="UseCaseDiagram" owner="EAPK_D7766412_1ADA_40df_945C_D49931FDB405" toolName="Enterprise Architect 2.5">
+			<UML:ModelElement.taggedValue>
+				<UML:TaggedValue tag="version" value="1.0"/>
+				<UML:TaggedValue tag="author" value="Karolliny Lima"/>
+				<UML:TaggedValue tag="created_date" value="2020-11-18 15:56:16"/>
+				<UML:TaggedValue tag="modified_date" value="2020-11-19 16:08:31"/>
+				<UML:TaggedValue tag="package" value="EAPK_D7766412_1ADA_40df_945C_D49931FDB405"/>
+				<UML:TaggedValue tag="type" value="Use Case"/>
+				<UML:TaggedValue tag="swimlanes" value="locked=false;orientation=0;width=0;inbar=false;names=false;color=0;bold=false;fcol=0;tcol=-1;ofCol=-1;hl=1;cls=0;SwimlaneFont=lfh:-13,lfw:0,lfi:0,lfu:0,lfs:0,lfface:ARIAL,lfe:0,lfo:0,lfchar:1,lfop:0,lfcp:0,lfq:0,lfpf=0,lfWidth=0;"/>
+				<UML:TaggedValue tag="matrixitems" value="locked=false;matrixactive=false;swimlanesactive=true;kanbanactive=false;width=1;clrLine=0;"/>
+				<UML:TaggedValue tag="ea_localid" value="3"/>
+				<UML:TaggedValue tag="EAStyle" value="ShowPrivate=1;ShowProtected=1;ShowPublic=1;HideRelationships=0;Locked=0;Border=0;HighlightForeign=0;PackageContents=0;SequenceNotes=0;ScalePrintImage=0;PPgs.cx=0;PPgs.cy=0;DocSize.cx=827;DocSize.cy=1169;ShowDetails=0;Orientation=P;Zoom=100;ShowTags=0;OpParams=1;VisibleAttributeDetail=0;ShowOpRetType=1;ShowIcons=1;CollabNums=0;HideProps=0;ShowReqs=0;ShowCons=0;PaperSize=1;HideParents=0;UseAlias=0;HideAtts=0;HideOps=0;HideStereo=0;HideElemStereo=0;ShowTests=0;ShowMaint=0;ConnectorNotation=UML 2.1;ExplicitNavigability=0;AdvancedElementProps=1;AdvancedFeatureProps=1;AdvancedConnectorProps=1;ShowNotes=0;SuppressBrackets=0;SuppConnectorLabels=0;PrintPageHeadFoot=0;ShowAsList=0;"/>
+				<UML:TaggedValue tag="styleex" value="SaveTag=EBEDB7DA;ExcludeRTF=0;DocAll=0;HideQuals=0;AttPkg=1;ShowTests=0;ShowMaint=0;SuppressFOC=1;MatrixActive=0;SwimlanesActive=1;KanbanActive=0;MatrixLineWidth=1;MatrixLineClr=0;MatrixLocked=0;TConnectorNotation=UML 2.1;TExplicitNavigability=0;AdvancedElementProps=1;AdvancedFeatureProps=1;AdvancedConnectorProps=1;ProfileData=;MDGDgm=;STBLDgm=;ShowNotes=0;VisibleAttributeDetail=0;ShowOpRetType=1;SuppressBrackets=0;SuppConnectorLabels=0;PrintPageHeadFoot=0;ShowAsList=0;SuppressedCompartments=;"/>
+			</UML:ModelElement.taggedValue>
+		</UML:Diagram>
+		<UML:TaggedValue tag="Website" xmi.id="EAID_BB198433_88CB_0f88_B1F0_5915B1490438" modelElement="EAID_9202AAB0_04C2_4f32_9CD0_8640236E2A80"/>
+		<UML:TaggedValue tag="HeaderType" xmi.id="EAID_23FE8DEB_B6D9_2fb6_97CA_B5AA3BEFFCF4" value="H1#NOTES#Values: H1,H2,H3,H4,H5,H6&#xA;Default: H1&#xA;" modelElement="EAID_BD31CE8F_E68F_4695_8D80_2CEBE41C376E"/>
+		<UML:TaggedValue tag="Style" xmi.id="EAID_0862AEF1_833F_2e83_960B_544AEC8755E6" value="&lt;memo&gt;#NOTES#&lt;Style&gt;&#xA;	&lt;H1 Style=&quot;color:black;font-family:Arial:font-size:32px&quot;/&gt;&#xA;	&lt;H2 Style=&quot;color:black;font-family:Arial:font-size:24px&quot;/&gt;&#xA;	&lt;H3 Style=&quot;color:black;font-family:Arial:font-size:18px&quot;/&gt;&#xA;	&lt;H4 Style=&quot;color:black;font-family:Arial;font-size:13px&quot;/&gt;&#xA;	&lt;H5 Style=&quot;color:black;font-family:Arial:font-size:12px;&quot;/&gt;&#xA;	&lt;H6 Style=&quot;color:black;font-family:Arial:font-size:10px;&quot;/&gt;&#xA;&lt;/Style&gt;&#xA;" modelElement="EAID_BD31CE8F_E68F_4695_8D80_2CEBE41C376E"/>
+		<UML:Diagram name="Webpage Wireframe" xmi.id="EAID_2F6CF271_D204_4418_B155_E6D9E194C767" diagramType="CustomDiagram" owner="EAPK_39D5D22D_0F58_4efc_8501_B82725F65402" toolName="Enterprise Architect 2.5">
+			<UML:ModelElement.taggedValue>
+				<UML:TaggedValue tag="version" value="1.0"/>
+				<UML:TaggedValue tag="created_date" value="2020-11-18 15:55:17"/>
+				<UML:TaggedValue tag="modified_date" value="2020-11-18 15:55:17"/>
+				<UML:TaggedValue tag="package" value="EAPK_39D5D22D_0F58_4efc_8501_B82725F65402"/>
+				<UML:TaggedValue tag="type" value="Custom"/>
+				<UML:TaggedValue tag="swimlanes" value="locked=false;orientation=0;width=0;inbar=false;names=false;color=-1;bold=false;fcol=0;tcol=-1;ofCol=-1;hl=1;cls=0;SwimlaneFont=lfh:-13,lfw:0,lfi:0,lfu:0,lfs:0,lfface:ARIAL,lfe:0,lfo:0,lfchar:1,lfop:0,lfcp:0,lfq:0,lfpf=0,lfWidth=0;"/>
+				<UML:TaggedValue tag="matrixitems" value="locked=false;matrixactive=false;swimlanesactive=true;kanbanactive=false;width=1;clrLine=0;"/>
+				<UML:TaggedValue tag="ea_localid" value="1"/>
+				<UML:TaggedValue tag="EAStyle" value="ShowPrivate=1;ShowProtected=1;ShowPublic=1;HideRelationships=0;Locked=0;Border=1;HighlightForeign=1;PackageContents=1;SequenceNotes=0;ScalePrintImage=0;PPgs.cx=1;PPgs.cy=1;DocSize.cx=799;DocSize.cy=1142;ShowDetails=0;Orientation=P;Zoom=100;ShowTags=0;OpParams=1;VisibleAttributeDetail=0;ShowOpRetType=1;ShowIcons=1;CollabNums=0;HideProps=0;ShowReqs=0;ShowCons=0;PaperSize=9;HideParents=0;UseAlias=0;HideAtts=0;HideOps=0;HideStereo=0;HideElemStereo=0;ShowTests=0;ShowMaint=0;ConnectorNotation=UML 2.1;ExplicitNavigability=0;AdvancedElementProps=1;AdvancedFeatureProps=1;AdvancedConnectorProps=1;ShowNotes=0;SuppressBrackets=0;SuppConnectorLabels=0;PrintPageHeadFoot=0;ShowAsList=0;Whiteboard=1;"/>
+				<UML:TaggedValue tag="styleex" value="SaveTag=E2316D6B;ExcludeRTF=0;DocAll=0;HideQuals=0;AttPkg=1;ShowTests=0;ShowMaint=0;SuppressFOC=1;MatrixActive=0;SwimlanesActive=1;KanbanActive=0;MatrixLineWidth=1;MatrixLineClr=0;MatrixLocked=0;TConnectorNotation=UML 2.1;TExplicitNavigability=0;AdvancedElementProps=1;AdvancedFeatureProps=1;AdvancedConnectorProps=1;ProfileData=;MDGDgm=Wireframing::Webpage Wireframe;STBLDgm=;ShowNotes=0;VisibleAttributeDetail=0;ShowOpRetType=1;SuppressBrackets=0;SuppConnectorLabels=0;PrintPageHeadFoot=0;ShowAsList=0;Whiteboard=1;SuppressedCompartments=;"/>
+			</UML:ModelElement.taggedValue>
+			<UML:Diagram.element>
+				<UML:DiagramElement geometry="Left=206;Top=106;Right=450;Bottom=204;" subject="EAID_BD31CE8F_E68F_4695_8D80_2CEBE41C376E" seqno="1" style="DUID=FDAD4662;"/>
+				<UML:DiagramElement geometry="Left=52;Top=46;Right=602;Bottom=426;" subject="EAID_9202AAB0_04C2_4f32_9CD0_8640236E2A80" seqno="2" style="DUID=5FEB1821;"/>
+			</UML:Diagram.element>
+		</UML:Diagram>
+		<UML:DiagramElement geometry="Left=20;Top=20;Right=180;Bottom=50;" subject="EAID_C796CEE8_DC23_493e_A136_AF5475B627BD" seqno="0" style=" DUID=6DC5A592;">
+			<UML:ModelElement.taggedValue/>
+		</UML:DiagramElement>
+	</XMI.content>
+	<XMI.difference/>
+	<XMI.extensions xmi.extender="Enterprise Architect 2.5"/>
+</XMI>
